@@ -1,3 +1,5 @@
+title: "Andrew Schwartz"
 name: Andrew Schwartz
 markdown: kramdown
+description: "Andrew Schwartz's Portfolio"
 permalink: /blog/:year/:month/:day/:title

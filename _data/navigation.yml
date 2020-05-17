@@ -2,8 +2,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Selected Journalism"
-    url: /selected-journalism/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: selected-journalism
+permalink: /selected-journalism/
 title: "Selected Journalism"
 author_profile: true
 ---

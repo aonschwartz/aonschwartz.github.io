@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    color: purple;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -47,4 +46,8 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.main-header {
+  text-align: center;
 }

@@ -5,4 +5,4 @@ header:
   image: "/images/mound.JPG"
 ---
 
-I'm a journalist who writes about labor.
+I'm a journalist who writes about labor. OTHER ONE

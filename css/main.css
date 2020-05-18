@@ -33,8 +33,14 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+img[alt=mainImage] { float: right;
+                width: 200px;
+                height: 300px;
+}
+
+
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 

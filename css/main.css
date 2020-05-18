@@ -35,7 +35,7 @@ footer {
 }
 
 img{
-    float: right;
+    float: none;
     width: 200px;
     height: 300px;
 }

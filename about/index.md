@@ -6,4 +6,4 @@ image: "/images/mound.JPG"
 ---
 
 
-I'm a journalist who writes about labor. Has picture.
+I'm a journalist who writes about labor. Has *picture.*

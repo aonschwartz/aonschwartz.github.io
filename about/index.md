@@ -6,11 +6,11 @@ permalink: /about/
 
 ![mainImage](/images/avatar.JPG)
 
-**[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act) |** The New Republic | For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
+**[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
 
-**[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse) |** The New Republic | The app-based economy was already a race to the bottom. The pandemic raises the question of how much lower things can go.  
+**[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| The New Republic \| The app-based economy was already a race to the bottom. The pandemic raises the question of how much lower things can go.  
 
-**[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis) |** The New Republic | In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
+**[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis)** \| The New Republic \| In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
 
 **[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz) |** The Baffler | Searching for the future of public space at Brooklyn's Central Library.  
 

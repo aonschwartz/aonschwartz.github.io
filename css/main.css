@@ -46,6 +46,10 @@ img{
     padding-left: 15px;
 }
 
+img:hover {
+  filter: grayscale(100%));
+}
+
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.1em;

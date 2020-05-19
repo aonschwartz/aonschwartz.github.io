@@ -11,7 +11,7 @@ layout: default
 
 **[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis)** \| The New Republic \| In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
 
-**[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| In These Times \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  
+**[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| In These Times \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  <br />
 
 ## Law and Criminal Justice
 
@@ -19,15 +19,15 @@ layout: default
 
 **[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| The Outline \| In a case that addresses basic tensions between the internet’s founding principles of free speech and the civic responsibilities of its businesses that have attained positions of outsized power, a law written in 1996 took center stage.  
 
-**[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.  
+**[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
 
-## Activism and Politics
+## Activism and Politics      
 
 **[From fur to foie gras, animals are on a winning streak](http://inthesetimes.com/article/22185/from-fur-to-foie-gras-animals-are-on-a-winning-streak)** \| In These Times \| Amid climate change and a largely hostile Trump administration, animal rights activists are making meaningful local gains as they work to shake charges of elitism, and bring their work into broader discourse on the Left.  
 
 **[Old money, young guilt](http://inthesetimes.com/article/21665/millennials-trust-funds-Resource-Generation-money)** \| In These Times \| An upsurgent non-profit organizes wealthy millennials to talk openly about their family money -- and relinquish it.  
 
-**[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \| In These Times \| Mini-profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  
+**[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \| In These Times \| Mini-profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
 
 ## Newspaper Work
 
@@ -45,7 +45,7 @@ layout: default
 
 **[D.I.Y. Porn](https://whitmanwire.com/feature/2017/11/09/d-i-y-porn/)** \| Whitman Wire \| Profile from college of a fellow student who does sexual performances for money on online forums. This is a common gig-economy style hustle for college-aged women looking for cash. The work enacts important questions around the nature of feminism, consent and (often misleading) cultural depictions of sexual pleasure.  
 
-**[Animal Minds](https://whitmanwire.com/feature/2016/02/25/animal-minds/)** \| Whitman Wire \| Whitman professors researched animal brains to learn about humans. As the human-animal distinction blurs, so too does the ethical landscape.  
+**[Animal Minds](https://whitmanwire.com/feature/2016/02/25/animal-minds/)** \| Whitman Wire \| Whitman professors researched animal brains to learn about humans. As the human-animal distinction blurs, so too does the ethical landscape.<br />  
 
 ## Essays
 

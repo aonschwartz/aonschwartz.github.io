@@ -3,7 +3,7 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-### Labor Reporting
+## Labor Reporting
 
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
 
@@ -13,7 +13,7 @@ layout: default
 
 **[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| In These Times \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  
 
-### Law and Criminal Justice
+## Law and Criminal Justice
 
 **[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| Walla Walla Union-Bulletin \| Investigative feature piece on the decline of food quality at the local penitentiary, and statewide. Decline maps gradual takeover of meal programs statewide by Correctional Industries, the controversial Department of Corrections business arm. Festering issue erupted when hundreds of inmates refused meals in protest earlier in the year.  
 
@@ -21,7 +21,7 @@ layout: default
 
 **[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.  
 
-### Activism and Politics
+## Activism and Politics
 
 **[From fur to foie gras, animals are on a winning streak](http://inthesetimes.com/article/22185/from-fur-to-foie-gras-animals-are-on-a-winning-streak)** \| In These Times \| Amid climate change and a largely hostile Trump administration, animal rights activists are making meaningful local gains as they work to shake charges of elitism, and bring their work into broader discourse on the Left.  
 
@@ -29,7 +29,7 @@ layout: default
 
 **[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \| In These Times \| Mini-profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  
 
-### Miscellaneous Newspaper Work
+## Newspaper Work
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| Walla Walla Union-Bulletin \| Profile of local drag queen living in conservative agricultural region that is in the midst of cultural and economic transformation.  
 
@@ -47,7 +47,7 @@ layout: default
 
 **[Animal Minds](https://whitmanwire.com/feature/2016/02/25/animal-minds/)** \| Whitman Wire \| Whitman professors researched animal brains to learn about humans. As the human-animal distinction blurs, so too does the ethical landscape.  
 
-### Essays
+## Essays
 
 **[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| The Baffler \| Searching for the future of public space at Brooklyn's Central Library.  
 

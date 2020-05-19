@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post"
+title: "Will post soon."
 date: 2020-05-15
 ---
-Will post soon.
+Am determining how this can be useful. Stay tuned.

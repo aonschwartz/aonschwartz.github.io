@@ -5,7 +5,7 @@ layout: default
 ---
 # Selected Journalism
 
-![mainImage](/images/avatar.JPG)
+![mainImage](/images/wheat.JPG)
 
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
 

@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 60%;
+    width: 45%;
     color: purple;
 }
 nav ul, footer ul {
@@ -39,6 +39,10 @@ img{
     height: 262px;
     border-radius: 8px;
     float: right;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
 }
 
 ul.posts {
@@ -54,5 +58,4 @@ ul.posts li {
   text-align: center;
   font-size: 3.5em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  color: purple;
 }

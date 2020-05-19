@@ -5,8 +5,6 @@ layout: default
 ---
 # Selected Journalism
 
-![mainImage](/images/wheat.JPG)
-
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
 
 **[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| The New Republic \| The app-based economy was already a race to the bottom. The pandemic raises the question of how much lower things can go.  

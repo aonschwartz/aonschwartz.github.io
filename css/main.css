@@ -50,6 +50,11 @@ img:hover {
   filter: grayscale(100%));
 }
 
+#specialImage{
+  width: (100%);
+  height: auto;
+}
+
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.1em;

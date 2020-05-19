@@ -33,7 +33,7 @@ layout: default
 
 **[Generation Gap Bridged at Guitar Fest](http://www.union-bulletin.com/things_to_do/entertainment/generation-gap-bridged-at-guitar-fest/article_fb4c048a-24c5-11e8-9f9f-2b3b533e004b.html)** \| Walla Walla Union-Bulletin \| Profile of an up-and-coming young blues musician who wows 'Nam-generation audiences, quelling concerns that kids just don't play the blues no more.  
 
-**[Hunger Strike at Washington State Penitentiary](https://whitmanwire.com/feature/2018/05/03/hunger-strike-at-the-washington-state-penitentiary/)** \| Whitman Wire \| 5/03/2018 | What does it actually mean for inmates to protest prison policy with a hunger strike?  
+**[Hunger Strike at Washington State Penitentiary](https://whitmanwire.com/feature/2018/05/03/hunger-strike-at-the-washington-state-penitentiary/)** \| Whitman Wire \| What does it actually mean for inmates to protest prison policy with a hunger strike?  
 
 **[Whitman in China](http://andrewtheschwartz.com/2018/06/12/whitman-goes-to-china-the-question-is-where-to-go-after)** \| Walla Walla Union-Bulletin: Lifestyles Magazine \| Profile of Whitman College program that sends recent graduates to teach English in China. Reported from both Xi'an and Walla Walla, the piece explores the ambivalent, purgatorial nature of the expat life in China. It was published in _Lifestyles_, the Union-Bulletin’s monthly magazine.  
 

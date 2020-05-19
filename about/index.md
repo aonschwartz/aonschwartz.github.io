@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "Writing"
+permalink: /writing/
 layout: default
 ---
 # Selected Journalism

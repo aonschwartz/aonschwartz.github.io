@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Andrew begins"
+title: "First Post"
 date: 2020-05-15
 ---
-This is my first post. 
+Will post soon.

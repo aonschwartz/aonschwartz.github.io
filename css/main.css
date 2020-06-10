@@ -43,6 +43,7 @@ img{
     border-radius: 10px;
     float: right;
     padding: 15px;
+
 }
 
 img:hover {
@@ -63,8 +64,12 @@ ul.posts li {
     list-style: none;
 }
 
-.main-header {
-  text-align: center;
+.header {
+  padding:10px;
+}
+
+.header a {
   font-size: 3.5em;
+  text-align: center;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }

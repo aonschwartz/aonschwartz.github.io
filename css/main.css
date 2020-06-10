@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 40%;
+    width: 30%;
     background-color: rgba(114, 99, 18, 0.1);
 }
 nav ul, footer ul {
@@ -38,8 +38,8 @@ footer {
 }
 
 img{
-    width: 173px;
-    height: 236px;
+    width: 260px;
+    height: 354px;
     border-radius: 10px;
     float: right;
     padding: 10px;

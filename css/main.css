@@ -66,6 +66,8 @@ ul.posts li {
 
 .header {
   padding:10px;
+  background-color: grey;
+  opacity: 0.2;
 }
 
 .header a {

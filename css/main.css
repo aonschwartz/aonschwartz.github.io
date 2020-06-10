@@ -67,12 +67,12 @@ ul.posts li {
 .header {
   padding:10px;
   background-color: grey;
-  opacity: 0.2;
+  opacity: 0.1;
 }
 
 .header a {
   font-size: 3.5em;
-  text-align: left;
+  text-align: center;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  color: #333;
+  color: black;
 }

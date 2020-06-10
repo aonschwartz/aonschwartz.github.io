@@ -41,11 +41,9 @@ img{
     width: 173px;
     height: 236px;
     border-radius: 10px;
-    border: 1px solid white;
+    border: 1px solid black;
     float: right;
-    padding-top: 20px;
-    padding-bottom: 2px;
-    padding-left: 30px;
+    padding: 10px;
 }
 
 img:hover {

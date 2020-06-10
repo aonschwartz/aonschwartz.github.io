@@ -76,3 +76,7 @@ ul.posts li {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   color: black;
 }
+
+.header:hover {
+    background-color: white;
+}

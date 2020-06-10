@@ -80,7 +80,3 @@ ul.posts li {
 .header a: hover {
   text-decoration: none;
 }
-
-.header:hover {
-    background-color: white;
-}

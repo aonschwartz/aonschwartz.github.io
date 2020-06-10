@@ -76,6 +76,10 @@ ul.posts li {
   color: black;
 }
 
+.header: hover {
+  text-decoration: none;
+}
+
 .header a: hover {
   text-decoration: none;
 }

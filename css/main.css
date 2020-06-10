@@ -66,6 +66,7 @@ ul.posts li {
 
 .header {
   padding:10px;
+  background-color: rgba(200, 115, 217, 0.33);
 }
 
 .header a {
@@ -73,7 +74,6 @@ ul.posts li {
   text-align: center;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   color: black;
-  background-color: rgba(200, 115, 217, 0.33);
 }
 
 .header a: hover {

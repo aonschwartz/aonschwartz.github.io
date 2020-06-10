@@ -7,8 +7,6 @@ layout: default
 
 **[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| High Country News \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
-**[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
-
 **[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| The New Republic \| The app-based economy was already a race to the bottom. The pandemic raises the question of how much lower things can go.  
 
 **[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis)** \| The New Republic \| In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
@@ -24,6 +22,8 @@ layout: default
 **[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
 
 ## Activism and Politics      
+
+**[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
 
 **[From fur to foie gras, animals are on a winning streak](http://inthesetimes.com/article/22185/from-fur-to-foie-gras-animals-are-on-a-winning-streak)** \| In These Times \| Amid climate change and a largely hostile Trump administration, animal rights activists are making meaningful local gains as they work to shake charges of elitism, and bring their work into broader discourse on the Left.  
 

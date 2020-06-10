@@ -45,7 +45,6 @@ img{
     padding-left: 15px;
     padding-bottom: 15px;
 
-
 }
 
 img:hover {
@@ -75,7 +74,7 @@ ul.posts li {
 .header a {
   font-size: 3.5em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  color: black;
+  color: grey;
 }
 
 .header: hover {

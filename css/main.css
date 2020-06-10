@@ -46,7 +46,7 @@ img{
 }
 
 img:hover {
-  filter: grayscale(50%));
+  filter: grayscale(50%);
 }
 
 #specialImage{

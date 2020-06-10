@@ -5,7 +5,7 @@ title: Andrew Schwartz
 
 
 
-## I'm Andrew Schwartz
+## I'm Andrew
 ![mainImage](/images/headshot_medium.jpg)
 I'm a freelance journalist with a focus on labor, public policy, and the American West. My work has appeared in *The New Republic*, *In These Times*, *High Country News*, *The Baffler*, *Chicago*, and *The Outline*, among other publications. I previously worked as a general assignment reporter with the *Walla Walla Union-Bulletin,* a local newspaper in Washington State.
 

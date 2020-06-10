@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 33%;
+    width: 28%;
     background-color: white);
 }
 nav ul, footer ul {
@@ -74,7 +74,7 @@ ul.posts li {
 .header a {
   font-size: 3.5em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  color: grey;
+  color: black;
 }
 
 .header: hover {

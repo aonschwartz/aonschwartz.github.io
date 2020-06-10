@@ -5,7 +5,7 @@ layout: default
 ---
 ## Labor Reporting
 
-**[How a Washington ski patrol learned to unionize]**(https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize) \| High Country News \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
+**[How a Washington ski patrol learned to unionize] (https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| High Country News \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
 

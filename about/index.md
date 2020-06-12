@@ -3,7 +3,9 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-## Labor Reporting
+[Labor](#LaborReporting) [Law](#Law)
+
+## <a name="LaborReporting"><a/>TEST 1
 
 **[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| High Country News \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
@@ -13,7 +15,7 @@ layout: default
 
 **[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| In These Times \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  <br />
 
-## Law and Criminal Justice
+## <a name="Law"><a/> Law and Criminal Justice
 
 **[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| Walla Walla Union-Bulletin \| Investigative feature piece on the decline of food quality at the local penitentiary, and statewide. Decline maps gradual takeover of meal programs statewide by Correctional Industries, the controversial Department of Corrections business arm. Festering issue erupted when hundreds of inmates refused meals in protest earlier in the year.  
 

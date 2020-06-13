@@ -3,9 +3,9 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-[Labor](#LaborReporting) [Law](#Law)
+### *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Activism and Politics](#Activism)* \| *[Newspaper Work](#Newspaper)* \|  *[Essays](#Essays)*
 
-## <a name="LaborReporting"><a/>TEST 1
+## <a name="LaborReporting"><a/>Labor
 
 **[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| High Country News \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
@@ -23,7 +23,7 @@ layout: default
 
 **[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
 
-## Activism and Politics      
+## <a name="Activism"><a/> Activism and Politics      
 
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
 
@@ -33,7 +33,7 @@ layout: default
 
 **[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \| In These Times \| Mini-profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
 
-## Newspaper Work
+## <a name="Newspaper"><a/> Newspaper Work
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| Walla Walla Union-Bulletin \| Profile of local drag queen living in conservative agricultural region that is in the midst of cultural and economic transformation.  
 
@@ -51,7 +51,7 @@ layout: default
 
 **[Animal Minds](https://whitmanwire.com/feature/2016/02/25/animal-minds/)** \| Whitman Wire \| Whitman professors researched animal brains to learn about humans. As the human-animal distinction blurs, so too does the ethical landscape.<br />  
 
-## Essays
+## <a name="Essays"><a/> Essays
 
 **[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| The Baffler \| Searching for the future of public space at Brooklyn's Central Library.  
 

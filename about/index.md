@@ -3,7 +3,7 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-### <div style="text-align: right"> Writing by type: *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Activism and Politics](#Activism)* \| *[Newspaper Work](#Newspaper)* \|  *[Essays](#Essays)*  </div>
+### Writing by type: *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Activism and Politics](#Activism)* \| *[Newspaper Work](#Newspaper)* \|  *[Essays](#Essays)* 
 
 ## <a name="LaborReporting"><a/>Labor
 

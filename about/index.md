@@ -3,7 +3,7 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-### By type: *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Activism and Politics](#Activism)* \| *[Newspaper Work](#Newspaper)* \|  *[Essays](#Essays)*
+### By type: *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Politics](#Politics)* \| *[Newspaper Work](#Newspaper)* \|  *[Essays](#Essays)*
 
 ## <a name="LaborReporting"><a/>Labor
 
@@ -23,7 +23,7 @@ layout: default
 
 **[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
 
-## <a name="Activism"><a/> Activism and Politics      
+## <a name="Politics"><a/> Activism and Politics      
 
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.  
 

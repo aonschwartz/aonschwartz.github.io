@@ -25,7 +25,7 @@ layout: default
 
 ## <a name="Politics"><a/> Activism and Politics  
 
-**[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz))** \| The Baffler \| How ExxonMobil sold us climate complacency.    
+**[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| The Baffler \| How ExxonMobil sold us climate complacency.    
 
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.   
 

@@ -17,6 +17,8 @@ layout: default
 
 ## <a name="Law"><a/> Law and Criminal Justice
 
+**[Disenfranchised by Debt](https://www.dissentmagazine.org/online_articles/disenfranchised-by-debt)** \| Dissent Magazine \| Court fines, fees, and restitution payments fund government operations—and hold millions of people in dire financial straits.
+
 **[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| Walla Walla Union-Bulletin \| Investigative feature piece on the decline of food quality at the local penitentiary, and statewide. Decline maps gradual takeover of meal programs statewide by Correctional Industries, the controversial Department of Corrections business arm. Festering issue erupted when hundreds of inmates refused meals in protest earlier in the year.  
 
 **[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| The Outline \| In a case that addresses basic tensions between the internet’s founding principles of free speech and the civic responsibilities of its businesses that have attained positions of outsized power, a law written in 1996 took center stage.  

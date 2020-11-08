@@ -3,7 +3,7 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-### *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Politics](#Politics)* \| *[Newspaper Work](#Newspaper)* \|  *[Essays](#Essays)*
+### *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Political Movements](#Politics)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
 
 ## <a name="LaborReporting"><a/>Labor
 
@@ -17,15 +17,17 @@ layout: default
 
 ## <a name="Law"><a/> Law and Criminal Justice
 
+**[Disenfranchised by Debt](https://www.dissentmagazine.org/online_articles/disenfranchised-by-debt)** \| Dissent Magazine \| Court fines, fees, and restitution payments fund government operations—and hold millions of people in dire financial straits.
+
 **[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| Walla Walla Union-Bulletin \| Investigative feature piece on the decline of food quality at the local penitentiary, and statewide. Decline maps gradual takeover of meal programs statewide by Correctional Industries, the controversial Department of Corrections business arm. Festering issue erupted when hundreds of inmates refused meals in protest earlier in the year.  
 
 **[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| The Outline \| In a case that addresses basic tensions between the internet’s founding principles of free speech and the civic responsibilities of its businesses that have attained positions of outsized power, a law written in 1996 took center stage.  
 
 **[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
 
-## <a name="Politics"><a/> Activism and Politics  
+## <a name="Politics"><a/> Political Movements 
 
-**[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz))** \| The Baffler \| How ExxonMobil sold us climate complacency.    
+**[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| The Baffler \| How ExxonMobil sold us climate complacency.    
 
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.   
 
@@ -33,11 +35,21 @@ layout: default
 
 **[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \| In These Times \| Profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
 
+## <a name="Essays"><a/> Essays
+
+**[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| The Baffler \| Searching for the future of public space at Brooklyn's Central Library.  
+
+**[Teleology](https://mangoprism.com/teleology/)** \| Mangoprism \| How we murdered two city ducks in the crucible of youth.
+
+**[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| Whitman Wire \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year. 
+
+**[Postcard from Standing Rock](https://mangoprism.com/postcard-from-standing-rock-get-your-pistol-white-man/)** \| Mangoprism \| Personal account of the Dakota Access Pipelines protests at Standing Rock.  
+
+**[Takemoto Sensei: on Home](http://andrewtheschwartz.com/2018/06/29/takemoto-sensei-on-home/)** \| Whitman Wire: Circuit Magazine \| Profile of Whitman professor Ron Akira Takemoto, a Zen Master who here explores the nature of "home."  
+
 ## <a name="Newspaper"><a/> Newspaper Work
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| Walla Walla Union-Bulletin \| Profile of local drag queen living in conservative agricultural region that is in the midst of cultural and economic transformation.  
-
-**[The Future of Encounters](https://whitmanwire.com/feature/2018/03/08/the-future-of-encounters/)** \| Whitman Wire \| Deep-dive investigation into the history and heated faculty debates surrounding the "signature program" at Whitman College. Mired in a generalized discontent, the program was seen as enacting fundamental questions as to the nature of tradition, community and the liberal arts.  
 
 **[Need seen, need (and tummies) filled at Starbuck restaurant](http://www.union-bulletin.com/news/business/need-seen-need-and-tummies-filled-at-starbuck-restaurant/article_4e67136a-ae48-11e8-a3a0-1fdbb389eedc.html)** \| Walla Walla Union-Bulletin \| Profile of a retired woman who, along with her husband, opened up a restaurant in rural Washington State town with a population just over one hundred.  
 
@@ -47,24 +59,4 @@ layout: default
 
 **[Walla Walla Girls Code a Career](http://www.union-bulletin.com/news/education/walla-walla-girls-code-a-career/article_16d6117e-d91b-11e7-b9a2-27de50645f1d.html)** \| Walla Walla Union-Bulletin \| A local program looks to introduce young girls to the notoriously male-centric world of computer programming.  
 
-**[D.I.Y. Porn](https://whitmanwire.com/feature/2017/11/09/d-i-y-porn/)** \| Whitman Wire \| Profile from college of a fellow student who does sexual performances for money on online forums. This is a common gig-economy style hustle for college-aged women looking for cash. The work enacts important questions around the nature of feminism, consent and (often misleading) cultural depictions of sexual pleasure.  
 
-**[Animal Minds](https://whitmanwire.com/feature/2016/02/25/animal-minds/)** \| Whitman Wire \| Whitman professors researched animal brains to learn about humans. As the human-animal distinction blurs, so too does the ethical landscape.<br />  
-
-## <a name="Essays"><a/> Essays
-
-**[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| The Baffler \| Searching for the future of public space at Brooklyn's Central Library.  
-
-**[A night hunting ghosts at Joliet Prison](http://www.chicagomag.com/city-life/October-2018/A-Night-Hunting-Ghosts-at-Joliet-Prison/)** \| Chicago Magazine \| On the scene with paranormal investigators in a very spooky place.  
-
-**[Whitman in China](http://andrewtheschwartz.com/2018/06/12/whitman-goes-to-china-the-question-is-where-to-go-after)** \| Walla Walla Union-Bulletin: Lifestyles Magazine \| Profile of Whitman College program that sends recent graduates to teach English in China. Reported from both Xi'an and Walla Walla, the piece explores the ambivalent, purgatorial nature of the expat life in China. It was published in _Lifestyles_, the Union-Bulletin’s monthly magazine.  
-
-**[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| Whitman Wire \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year.
-
-**[The Missionary Retires](https://whitmanwire.com/magazine-2/2017/05/12/the-missionary-retires/)** \| Whitman Wire: Circuit Magazine \| After nearly a century of debate, Whitman College did away with its controversial mascot. This feature piece explores the meaning and implications of that break from the past.   
-
-**[Postcard from Standing Rock](https://mangoprism.com/2016/11/15/postcard-from-standing-rock-get-your-pistol-white-man/)** \| Mangoprism \| Personal account of the Dakota Access Pipelines protests at Standing Rock.  
-
-**[Takemoto Sensei: on Home](http://andrewtheschwartz.com/2018/06/29/takemoto-sensei-on-home/)** \| Whitman Wire: Circuit Magazine \| Profile of Whitman professor Ron Akira Takemoto, a Zen Master who here explores the nature of "home."  
-
-**[Quiet in the Wallowas](https://whitmanwire.com/feature/2016/04/21/remember-kip-rand/)** \| Whitman Wire \| Account and tribute in reference to the tragic death the director of the Wallowa Avalanche Center, a young man who had led my own avalanche safety course earlier in the year.  

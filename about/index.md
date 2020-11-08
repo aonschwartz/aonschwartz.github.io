@@ -3,7 +3,7 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-### *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Political Movements](#Politics)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
+### *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Politics](#Politics)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
 
 ## <a name="LaborReporting"><a/>Labor
 
@@ -25,7 +25,7 @@ layout: default
 
 **[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
 
-## <a name="Politics"><a/> Political Movements 
+## <a name="Politics"><a/> Politics
 
 **[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| The Baffler \| How ExxonMobil sold us climate complacency.    
 
@@ -41,7 +41,7 @@ layout: default
 
 **[Teleology](https://mangoprism.com/teleology/)** \| Mangoprism \| How we murdered two city ducks in the crucible of youth.
 
-**[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| Whitman Wire \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year. 
+**[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| Whitman Wire \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year.
 
 **[Postcard from Standing Rock](https://mangoprism.com/postcard-from-standing-rock-get-your-pistol-white-man/)** \| Mangoprism \| Personal account of the Dakota Access Pipelines protests at Standing Rock.  
 
@@ -58,5 +58,3 @@ layout: default
 **[Adventures With Godwin](https://whitmanwire.com/feature/2016/03/10/adventures-with-godwin/)** \| Whitman Wire \| Profile of present Whitman physics student, one-time Chinese calligraphy champion.  
 
 **[Walla Walla Girls Code a Career](http://www.union-bulletin.com/news/education/walla-walla-girls-code-a-career/article_16d6117e-d91b-11e7-b9a2-27de50645f1d.html)** \| Walla Walla Union-Bulletin \| A local program looks to introduce young girls to the notoriously male-centric world of computer programming.  
-
-

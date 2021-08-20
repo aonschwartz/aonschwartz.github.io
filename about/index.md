@@ -43,6 +43,8 @@ layout: default
 
 **[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| Whitman Wire \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year.
 
+**[I Am the Worst Collegiate Golfer in America](https://mangoprism.com/i-am-the-worst-collegiate-golfer-in-america/)** \| Mangoprism \| On my stint as the worst collegiate golfer in America.
+
 **[Postcard from Standing Rock](https://mangoprism.com/postcard-from-standing-rock-get-your-pistol-white-man/)** \| Mangoprism \| Personal account of the Dakota Access Pipelines protests at Standing Rock.  
 
 **[Takemoto Sensei: on Home](http://andrewtheschwartz.com/2018/06/29/takemoto-sensei-on-home/)** \| Whitman Wire: Circuit Magazine \| Profile of Whitman professor Ron Akira Takemoto, a Zen Master who here explores the nature of "home."  

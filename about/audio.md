@@ -6,4 +6,8 @@ layout: default
 
 ## Audio
 
-Fall of 2020, I attended a grad program in audio production at the Salt Institute for Documentary Storytelling at the Maine College of Art. In undergrad, I co-created, co-produced, and co-hosted a radio program as a branch of the college newspaper. Now I do freelance audio production, fact checking, and editing. You can find work samples on my [Soundcloud.](https://soundcloud.com/andrew-schwartz-191964276)
+I produce audio stories for radio and podcasts.
+
+I'm available for freelance production and editing projects. In 2020, I attended a graduate program in audio production at the Salt Institute for Documentary Storytelling at the Maine College of Art.
+
+I've worked on an array of audio production projects, as a reporter, fact checker, and in post-production. Recent work inclusdes a set of non-narrated audio stories about life amid the pandemic in Seattle's refugee community. Before that I produced [Tour to the Wonderful Podcast,](https://open.spotify.com/show/1wkiVWYBdJGuUbLs91xFIM?si=-5Gj4OLZTaGWKDYPmaF-Cw) about a Rabbi and his wife's charitable RV journey across America. You can find more samples of my work on my [Soundcloud.](https://soundcloud.com/andrew-schwartz-191964276)

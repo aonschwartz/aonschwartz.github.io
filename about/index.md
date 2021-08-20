@@ -9,7 +9,7 @@ layout: default
 
 **[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| High Country News \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
-**[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| The New Republic \| The app-based economy was already a race to the bottom. The pandemic raises the question of how much lower things can go.  
+**[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| The New Republic \| The app-based economy was already a race to the bottom. Amid the pandemic, how much lower things can go.  
 
 **[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis)** \| The New Republic \| In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
 

@@ -7,6 +7,8 @@ layout: default
 
 ## <a name="LaborReporting"><a/>Labor
 
+**[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \| Mother Jones \| Inside Local 813’s campaign to escape the trash heap of history.
+
 **[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| High Country News \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
 **[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| The New Republic \| The app-based economy was already a race to the bottom. Amid the pandemic, how much lower things can go?

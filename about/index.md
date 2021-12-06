@@ -3,7 +3,7 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-### *[Labor](#LaborReporting)* \| *[Politics](#Politics)*\| *[Law](#Law)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
+### *[Labor](#LaborReporting)* \| *[Politics](#Politics)* \| *[Law](#Law)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
 
 ## <a name="LaborReporting"><a/>Labor
 

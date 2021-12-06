@@ -3,7 +3,7 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-### *[Labor](#LaborReporting)* \| *[Law](#Law)* \| *[Politics](#Politics)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
+### *[Labor](#LaborReporting)* \| *[Politics](#Politics)*\| *[Law](#Law)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
 
 ## <a name="LaborReporting"><a/>Labor
 
@@ -17,6 +17,20 @@ layout: default
 
 **[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| In These Times \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  <br />
 
+
+## <a name="Politics"><a/> Politics
+
+**[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| The New Republic \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
+
+**[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| The Baffler \| How ExxonMobil sold us climate complacency.    
+
+**[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.   
+
+**[Old money, young guilt](http://inthesetimes.com/article/21665/millennials-trust-funds-Resource-Generation-money)** \| In These Times \| An upsurgent non-profit organizes wealthy millennials to talk openly about their family money -- and relinquish it.  
+
+**[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \| In These Times \| Profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
+
+
 ## <a name="Law"><a/> Law and Criminal Justice
 
 **[Disenfranchised by Debt](https://www.dissentmagazine.org/online_articles/disenfranchised-by-debt)** \| Dissent Magazine \| Court fines, fees, and restitution payments fund government operations—and hold millions of people in dire financial straits.
@@ -26,16 +40,6 @@ layout: default
 **[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| The Outline \| In a case that addresses basic tensions between the internet’s founding principles of free speech and the civic responsibilities of its businesses that have attained positions of outsized power, a law written in 1996 took center stage.  
 
 **[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| Walla Walla Union-Bulletin \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
-
-## <a name="Politics"><a/> Politics
-
-**[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| The Baffler \| How ExxonMobil sold us climate complacency.    
-
-**[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| The New Republic \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.   
-
-**[Old money, young guilt](http://inthesetimes.com/article/21665/millennials-trust-funds-Resource-Generation-money)** \| In These Times \| An upsurgent non-profit organizes wealthy millennials to talk openly about their family money -- and relinquish it.  
-
-**[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \| In These Times \| Profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
 
 ## <a name="Essays"><a/> Essays
 

@@ -20,6 +20,8 @@ layout: default
 
 ## <a name="Politics"><a/> Politics
 
+**[Animal Rights Activists Rescued Two Piglets From Slaughter. They Wanted to Get Caught.](https://newrepublic.com/article/165468/animal-rights-dxe-smithfield)** \| The New Republic \| Liberating the pigs from a Smithfield facility was just the first step in Wayne Hsiung and Paul Darwin Picklesimer’s grand plan. Now they want their legal case to start a sea change in animal rights.
+
 **[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| The New Republic \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 
 **[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| The Baffler \| How ExxonMobil sold us climate complacency.    

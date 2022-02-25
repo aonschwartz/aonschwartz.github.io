@@ -8,7 +8,7 @@ layout: default
 
 ## <a name="Podcasts"><a/>Podcasts
 
-**[Raise the Line](https://www.osmosis.org/raisethelinepodcast)** \| Post-production, Writing \| Osmosis.org explores solutions with top experts to strengthen the capacity of our healthcare system during the COVID-19 pandemic and beyond.
+**[Raise the Line](https://www.osmosis.org/raisethelinepodcast)** \| Editor, Writer \| Osmosis.org explores solutions with top experts to strengthen the capacity of our healthcare system during the COVID-19 pandemic and beyond.
 
 **[Tour to the Wonderful](https://podcasts.apple.com/us/podcast/tour-to-the-wonderful-podcast/id1547001141)** \| Producer, Editor \| A rabbi and his wife model the power of giving, as they travel the United States by RV on a quest to better understand and support the distinct needs of local communities, while meeting heroes of everyday life.
 

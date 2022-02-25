@@ -24,6 +24,6 @@ layout: default
 
 ## <a name="Film"><a/>Film
 
-**Meet Me in Sankt Polten** \| Sound, Producer \| Unreleased Short Film
+**Meet Me in Sankt Polten** \| Sound Mixer, Producer \| Unreleased Short Film
 
-**[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)** \| Sound \| Short Film
+**[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)** \| Sound Mixer \| Short Film

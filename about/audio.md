@@ -3,12 +3,12 @@ title: "Audio"
 permalink: /audio/
 layout: default
 ---
-### *[Podcasts](#Podcasts)* \| *[Audio Stories](#Audio Stories)* \| *[Film](#Film)*
+### *[Podcasts](#Podcasts)* \| *[Audio Stories](#Audio Stories)* \| *[Recording](#Recording)*
 
 
 ## <a name="Podcasts"><a/>Podcasts
 
-**[Raise the Line](https://www.osmosis.org/raisethelinepodcast)** \| Post-Production Editor, Writer \| Osmosis.org explores solutions with top experts to strengthen the capacity of our healthcare system during the COVID-19 pandemic and beyond.
+**[Raise the Line](https://www.osmosis.org/raisethelinepodcast)** \| Post-Production Editor, Writer \| Osmosis.org podcast tailored towards medical students features interviews with healthcare industry experts and leaders.
 
 **[Tour to the Wonderful](https://podcasts.apple.com/us/podcast/tour-to-the-wonderful-podcast/id1547001141)** \| Producer, Editor \| A rabbi and his wife model the power of giving, as they travel the United States by RV on a quest to better understand and support the distinct needs of local communities, while meeting heroes of everyday life.
 
@@ -22,7 +22,9 @@ layout: default
 
 **[Surf](https://soundcloud.com/andrew-schwartz-191964276/surfing)** \| Reporter, Writer, Producer \| When the hordes disperse in the twilight hours one late-summer day, Scarborough's legendary Higgins Beach returns to the surfers.
 
-## <a name="Film"><a/>Film
+## <a name="Recording"><a/>Recording
+
+**Tape Syncs** \| Recorded tape syncs for Mashup Americans, the BBC, and This American Life.
 
 **Meet Me in Sankt Polten** \| Producer, Boom-Operator \| Unreleased Short Film
 

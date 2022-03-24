@@ -16,7 +16,7 @@ layout: default
 
 **[Fly-fishing programs catch on as therapy for troops and veterans recovering from trauma](https://beta.prx.org/stories/394771)** \| Reporter, Writer, Producer \| Around the country, groups are teaching wounded troops and veterans to fly fish. While there's not much research on the therapeutic benefits, some say the experience helps them heal.
 
-**[This Moose Might Not Survive ](https://soundcloud.com/andrew-schwartz-191964276/this-moose-might-survive)** \| Reporter, Writer, Producer \| In October 2020, Dave DeMerchant led clients into the North Maine Woods for his last moose hunt before the season ended. It was a particularly strange time for DeMerchant, a guide of more than three decades. Just a few weeks prior, he had received some unsettling news.
+**[This Moose Might Survive ](https://soundcloud.com/andrew-schwartz-191964276/this-moose-might-survive)** \| Reporter, Writer, Producer \| In October 2020, Dave DeMerchant led clients into the North Maine Woods for his last moose hunt before the season ended. It was a particularly strange time for DeMerchant, a guide of more than three decades. Just a few weeks prior, he had received some unsettling news.
 
 **[The Kids Came Home](https://soundcloud.com/andrew-schwartz-191964276/the-kids-came-home)** \| Reporter, Co-producer \| The pandemic sets in, the kids come home, and an old life returns.
 

@@ -35,34 +35,36 @@ layout: default
 
 ## <a name="Law"><a/> Law and Criminal Justice
 
-**[Disenfranchised by Debt](https://www.dissentmagazine.org/online_articles/disenfranchised-by-debt)** \| *Dissent Magazine* \| Court fines, fees, and restitution payments fund government operations—and hold millions of people in dire financial straits.
+**[Disenfranchised by Debt](https://www.dissentmagazine.org/online_articles/disenfranchised-by-debt)** \| 2021 \|  *Dissent Magazine* \| Court fines, fees, and restitution payments fund government operations—and hold millions of people in dire financial straits.
 
-**[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| *Walla Walla Union-Bulletin* \| Investigative feature piece on the decline of food quality at the local penitentiary, and statewide. Decline maps gradual takeover of meal programs statewide by Correctional Industries, the controversial Department of Corrections business arm. Festering issue erupted when hundreds of inmates refused meals in protest earlier in the year.  
+**[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| 2018 \| *Walla Walla Union-Bulletin* \| Investigative feature piece on the decline of food quality at the local penitentiary, and statewide. Decline maps gradual takeover of meal programs statewide by Correctional Industries, the controversial Department of Corrections business arm. Festering issue erupted when hundreds of inmates refused meals in protest earlier in the year.  
 
-**[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| *The Outline* \| In a case that addresses basic tensions between the internet’s founding principles of free speech and the civic responsibilities of its businesses that have attained positions of outsized power, a law written in 1996 took center stage.  
+**[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| 2019 \| *The Outline* \| In a case that addresses basic tensions between the internet’s founding principles of free speech and the civic responsibilities of its businesses that have attained positions of outsized power, a law written in 1996 took center stage.  
 
-**[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \| *Walla Walla Union-Bulletin* \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
+**[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \|  2018 \| *Walla Walla Union-Bulletin* \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
 
 ## <a name="Essays"><a/> Essays
 
 **[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| *The Baffler* \| Searching for the future of public space at Brooklyn's Central Library.  
 
-**[Teleology](https://mangoprism.com/teleology/)** \| *Mangoprism* \| How we murdered two city ducks in the crucible of youth.
+**[Teleology](https://mangoprism.com/teleology/)** \| 2019 \|  *Mangoprism* \| How we murdered two city ducks in the crucible of youth.
 
-**[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| *Whitman Wire* \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year.
+**[I Am the Worst Collegiate Golfer in America](https://mangoprism.com/i-am-the-worst-collegiate-golfer-in-america/)** \| 2015 \| *Mangoprism* \| On my stint as the worst collegiate golfer in America.
 
-**[I Am the Worst Collegiate Golfer in America](https://mangoprism.com/i-am-the-worst-collegiate-golfer-in-america/)** \| *Mangoprism* \| On my stint as the worst collegiate golfer in America.
+**[Get Your Pistol, White Man](https://mangoprism.com/postcard-from-standing-rock-get-your-pistol-white-man/)** \| 2016 \| *Mangoprism* \| Postcard from the Standing Rock protests.
 
-**[Postcard from Standing Rock](https://mangoprism.com/postcard-from-standing-rock-get-your-pistol-white-man/)** \| *Mangoprism* \| Personal account of the Dakota Access Pipelines protests at Standing Rock.  
+**[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| 2015 \| *Whitman Wire* \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year.
 
-## <a name="Newspaper"><a/> Newspaper Work
+## <a name="Newspaper"><a/> miscellaneous Newspaper Work
 
-**[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| *Walla Walla Union-Bulletin* \| Profile of local drag queen living in conservative agricultural region that is in the midst of cultural and economic transformation.  
+**[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| Profile of local drag queen living in conservative agricultural region that is in the midst of cultural and economic transformation.  
 
-**[Need seen, need (and tummies) filled at Starbuck restaurant](http://www.union-bulletin.com/news/business/need-seen-need-and-tummies-filled-at-starbuck-restaurant/article_4e67136a-ae48-11e8-a3a0-1fdbb389eedc.html)** \| *Walla Walla Union-Bulletin* \| Profile of a retired woman who, along with her husband, opened up a restaurant in rural Washington State town with a population just over one hundred.  
+**[Need seen, need (and tummies) filled at Starbuck restaurant](http://www.union-bulletin.com/news/business/need-seen-need-and-tummies-filled-at-starbuck-restaurant/article_4e67136a-ae48-11e8-a3a0-1fdbb389eedc.html)** \| 2018 \|  *Walla Walla Union-Bulletin* \| Profile of a retired woman who, along with her husband, opened up a restaurant in rural Washington State town with a population just over one hundred.  
 
-**[Generation Gap Bridged at Guitar Fest](http://www.union-bulletin.com/things_to_do/entertainment/generation-gap-bridged-at-guitar-fest/article_fb4c048a-24c5-11e8-9f9f-2b3b533e004b.html)** \| *Walla Walla Union-Bulletin* \| Profile of an up-and-coming young blues musician who wows 'Nam-generation audiences, quelling concerns that kids just don't play the blues no more.  
+**[Generation Gap Bridged at Guitar Fest](http://www.union-bulletin.com/things_to_do/entertainment/generation-gap-bridged-at-guitar-fest/article_fb4c048a-24c5-11e8-9f9f-2b3b533e004b.html)** \| 2018 \|  *Walla Walla Union-Bulletin* \| Profile of an up-and-coming young blues musician who wows 'Nam-generation audiences, quelling concerns that kids just don't play the blues no more.  
 
-**[Adventures With Godwin](https://whitmanwire.com/feature/2016/03/10/adventures-with-godwin/)** \| *Whitman Wire* \| Profile of present Whitman physics student, one-time Chinese calligraphy champion.  
+**[Adventures With Godwin](https://whitmanwire.com/feature/2016/03/10/adventures-with-godwin/)** \| 2016 \|  *Whitman Wire* \| Profile of present Whitman physics student, one-time Chinese calligraphy champion.  
 
-**[Walla Walla Girls Code a Career](http://www.union-bulletin.com/news/education/walla-walla-girls-code-a-career/article_16d6117e-d91b-11e7-b9a2-27de50645f1d.html)** \| *Walla Walla Union-Bulletin* \| A local program looks to introduce young girls to the notoriously male-centric world of computer programming.  
+**[Walla Walla Girls Code a Career](http://www.union-bulletin.com/news/education/walla-walla-girls-code-a-career/article_16d6117e-d91b-11e7-b9a2-27de50645f1d.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| A local program looks to introduce young girls to the notoriously male-centric world of computer programming.  
+
+**[Where to find fantastic beasts? At Walla Walla car show](https://www.union-bulletin.com/things_to_do/diversions/where-to-find-fantastic-beasts-at-walla-walla-car-show/article_0931962e-95be-11e7-8718-7b5cacc1a29a.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| “It’s kind of like going through a second childhood."

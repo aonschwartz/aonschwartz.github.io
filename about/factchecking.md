@@ -4,7 +4,7 @@ permalink: /factchecking/
 layout: default
 ---
 ## **Fact Checking**
-*[Podcasts](#Podcasts)* \| *[Print](#Print)*
+*[Podcasts](#Podcasts)* \| *[Print](#Print)* 
 
 ### **<a name="Podcasts"><a/>Podcasts**
 

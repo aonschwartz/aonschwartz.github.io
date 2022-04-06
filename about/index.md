@@ -8,15 +8,15 @@ layout: default
 
 ### <a name="LaborReporting"><a/>Labor
 
-**[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \|  2021 \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
+[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/) \|  2021 \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
 
-**[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| 2020 \| *High Country News* \|  When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
+[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize) \| 2020 \| *High Country News* \|  When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
-**[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| 2020 \| *The New Republic* \| The app-based economy was already a race to the bottom. Amid the pandemic, how much lower things can go?
+[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse) \| 2020 \| *The New Republic* \| The app-based economy was already a race to the bottom. Amid the pandemic, how much lower things can go?
 
-**[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis)** \| 2020 \| *The New Republic* \| In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
+[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis) \| 2020 \| *The New Republic* \| In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
 
-**[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| 2018 \| *In These Times* \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  <br />
+[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union) \| 2018 \| *In These Times* \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  <br />
 
 
 ### <a name="Politics"><a/> Politics

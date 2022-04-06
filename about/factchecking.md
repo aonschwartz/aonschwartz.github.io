@@ -14,6 +14,6 @@ layout: default
 
 ## <a name="Print"><a/>Print
 
-***[Dissent](https://www.dissentmagazine.org/issue/summer-2019)*** \| 2019 \| Fact checked dozens of magazine articles
+***[Dissent](https://www.dissentmagazine.org/issue/summer-2019)*** \| 2019 \| Fact checked dozens of magazine articles.
 
 ***[In These Times](https://inthesetimes.com/)*** \| 2018 \| Fact checked dozens of magazine articles.

@@ -24,8 +24,8 @@ layout: default
 
 ## <a name="Sound Recording"><a/>Sound Recording
 
-**Tape Syncs** \| 2021-2022 \|  Recorded tape syncs for *Mashup Americans*, the *BBC*, and *This American Life.*
+Tape Syncs \| 2021-2022 \|  Recorded tape syncs for *Mashup Americans*, the *BBC*, and *This American Life.*
 
-**Meet Me in Sankt Polten** \| 2021 \| Producer, Sound Technician \| Unreleased Short Film
+*Meet Me in Sankt Polten* \| 2021 \| Producer, Sound Technician \| Unreleased Short Film
 
 *[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)* \| 2021 \| Producer, Sound Technician \| Short Film about a woman drawing in a park. She has forgotten her blue pencil.

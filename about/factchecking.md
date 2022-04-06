@@ -3,7 +3,8 @@ title: "Fact Checking"
 permalink: /factchecking/
 layout: default
 ---
-# Fact Checking ### *[Podcasts](#Podcasts)* \| *[Print](#Print)*
+# Fact Checking
+### *[Podcasts](#Podcasts)* \| *[Print](#Print)*
 
 
 ## <a name="Podcasts"><a/>Podcasts

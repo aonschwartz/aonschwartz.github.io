@@ -55,7 +55,7 @@ layout: default
 
 **[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| 2015 \| *Whitman Wire* \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year.
 
-## <a name="Newspaper"><a/> miscellaneous Newspaper Work
+## <a name="Newspaper"><a/> Miscellaneous Newspaper Work
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| Profile of local drag queen living in conservative agricultural region that is in the midst of cultural and economic transformation.  
 

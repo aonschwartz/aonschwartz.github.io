@@ -10,4 +10,4 @@ I'm a freelance journalist, audio producer, and fact checker with a focus on lab
 
 I've previously worked as a contributing social media editor at *The New Republic*, and as a general assignment reporter with the *Walla Walla Union-Bulletin,* a local newspaper in Washington State.
 
-I also do freelance editing, and I co-edit *[Mangoprism](https://mangoprism.com/)*, which publishes emerging writers online and in print. Get in touch at my email below!
+I also do freelance editing, and I co-edit *[Mangoprism](https://mangoprism.com/)*, which publishes emerging writers online and (as of recently!) in print. You can reach me at my email, linked below.

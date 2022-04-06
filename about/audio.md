@@ -3,14 +3,14 @@ title: "Audio"
 permalink: /audio/
 layout: default
 ---
-### *[Podcasts](#Podcasts)* \| *[Audio Stories](#Audio Stories)* \| *[Recording](#Recording)*
+### *[Podcasts](#Podcasts)* \| *[Audio Stories](#Audio Stories)* \| *[Sound Recording](#Sound Recording)*
 
 
 ## <a name="Podcasts"><a/>Podcasts
 
-**[Raise the Line](https://www.osmosis.org/raisethelinepodcast)** \| Post-Production Editor, Writer \| Osmosis.org podcast, tailored towards medical students, features interviews with healthcare industry experts and leaders.
+***[Raise the Line](https://www.osmosis.org/raisethelinepodcast)*** \| Post-Production Editor, Writer \| Osmosis.org podcast, tailored towards medical students, features interviews with healthcare industry experts and leaders.
 
-**[Tour to the Wonderful](https://podcasts.apple.com/us/podcast/tour-to-the-wonderful-podcast/id1547001141)** \| Producer, Editor \| A rabbi and his wife model the power of giving, as they travel the United States by RV on a quest to better understand and support the distinct needs of local communities, while meeting heroes of everyday life.
+***[Tour to the Wonderful](https://podcasts.apple.com/us/podcast/tour-to-the-wonderful-podcast/id1547001141)*** \| Producer, Editor \| A rabbi and his wife model the power of giving, as they travel the United States by RV on a quest to better understand and support the distinct needs of local communities, while meeting heroes of everyday life.
 
 ## <a name="Audio Stories"><a/>Audio Stories
 
@@ -22,10 +22,10 @@ layout: default
 
 **[Surf](https://soundcloud.com/andrew-schwartz-191964276/surfing)** \| Reporter, Writer, Producer \| When the hordes disperse in the twilight hours one late-summer day, Scarborough's legendary Higgins Beach returns to the surfers.
 
-## <a name="Recording"><a/>Recording
+## <a name="Sound Recording"><a/>Sound Recording
 
 **Tape Syncs** \| Recorded tape syncs for Mashup Americans, the BBC, and This American Life.
 
-**Meet Me in Sankt Polten** \| Producer, Sound Technician \| Unreleased Short Film
+***Meet Me in Sankt Polten*** \| Producer, Sound Technician \| Unreleased Short Film
 
-**[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)** \| Sound Technician \| Short Film
+***[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)*** \| Sound Technician \| Short Film

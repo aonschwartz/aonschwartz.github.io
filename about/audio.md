@@ -12,9 +12,9 @@ layout: default
 
 **[This Moose Might Survive ](https://soundcloud.com/andrew-schwartz-191964276/this-moose-might-survive)** \| 2020 \| Reporter, Writer, Producer \| In October 2020, Dave DeMerchant led clients into the North Maine Woods for his last moose hunt before the season ended. It was a particularly strange time for DeMerchant, a guide of more than three decades. Just a few weeks prior, he had received some unsettling news.
 
-**[The Kids Came Home](https://soundcloud.com/andrew-schwartz-191964276/the-kids-came-home)** \| 2021 \| Reporter, Co-producer \| The pandemic sets in, the kids come home, and an old life returns, if only for a while.
-
 **[Surf](https://soundcloud.com/andrew-schwartz-191964276/surfing)** \| 2020 \| Reporter, Writer, Producer \| When the hordes disperse in the twilight hours one late-summer day, Scarborough's legendary Higgins Beach returns to the surfers.
+
+**[The Kids Came Home](https://soundcloud.com/andrew-schwartz-191964276/the-kids-came-home)** \| 2021 \| Reporter, Co-producer \| The pandemic sets in, the kids come home, and an old life returns, if only for a while.
 
 ### <a name="Podcasts"><a/>Podcasts
 
@@ -24,7 +24,7 @@ layout: default
 
 ## <a name="Sound Recording"><a/>Sound Recording
 
-Tape Syncs \| 2021-2022 \|  Recorded tape syncs for *Mashup Americans*, the *BBC*, and *This American Life.*
+Tape Syncs \| 2021-2022 \| I have done tape syncs for *Mashup Americans*, the *BBC*, and *This American Life.*
 
 ***Meet Me in Sankt Polten*** \| 2021 \| Producer, Sound Technician \| Unreleased Short Film
 

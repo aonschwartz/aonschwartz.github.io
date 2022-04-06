@@ -28,7 +28,7 @@ layout: default
 
 **[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| 2020 \| *The New Republic* \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.   
 
-**[Old money, young guilt](http://inthesetimes.com/article/21665/millennials-trust-funds-Resource-Generation-money)** \| 2019 \| *In These Times* \| An upsurgent non-profit organizes wealthy millennials to talk openly about their family money -- and relinquish it.  
+**[Old money, young guilt](http://inthesetimes.com/article/21665/millennials-trust-funds-Resource-Generation-money)** \| 2019 \| *In These Times* \| An upsurgent non-profit organizes wealthy millennials to talk openly about their family money—and relinquish it.  
 
 **[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \|  2019 \|  *In These Times* \| Profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
 

@@ -3,16 +3,10 @@ title: "Audio"
 permalink: /audio/
 layout: default
 ---
-## **Audio**
-*[Podcasts](#Podcasts)* \| *[Audio Stories](#Audio Stories)* \| *[Sound Recording](#Sound Recording)*
+## **Fact Checking**
+*[Audio Stories](#AudioStories)* \| *[Podcasts](#Podcasts)* \| *[Sound Recording](#SoundRecording)*
 
-### <a name="Podcasts"><a/>Podcasts
-
-***[Raise the Line](https://www.osmosis.org/raisethelinepodcast)*** \| 2021-2022 \| Post-Production Editor, Writer \| Podcast tailored towards medical students features interviews with healthcare industry experts and leaders.
-
-***[Tour to the Wonderful](https://podcasts.apple.com/us/podcast/tour-to-the-wonderful-podcast/id1547001141)*** \| 2021 \| Producer, Editor \| A rabbi and his wife take a trip.
-
-### <a name="Audio Stories"><a/>Audio Stories
+### <a name="AudioStories"><a/>Audio Stories
 
 **[Fly-fishing programs catch on as therapy for troops and veterans recovering from trauma](https://beta.prx.org/stories/394771)** \| 2021 \| Reporter, Writer, Producer \| Around the country, groups are teaching wounded troops and veterans to fly fish. While there's not much research on the therapeutic benefits, some say the experience helps them heal.
 
@@ -21,6 +15,12 @@ layout: default
 **[The Kids Came Home](https://soundcloud.com/andrew-schwartz-191964276/the-kids-came-home)** \| 2021 \| Reporter, Co-producer \| The pandemic sets in, the kids come home, and an old life returns, if only for a while.
 
 **[Surf](https://soundcloud.com/andrew-schwartz-191964276/surfing)** \| 2020 \| Reporter, Writer, Producer \| When the hordes disperse in the twilight hours one late-summer day, Scarborough's legendary Higgins Beach returns to the surfers.
+
+### <a name="Podcasts"><a/>Podcasts
+
+***[Raise the Line](https://www.osmosis.org/raisethelinepodcast)*** \| 2021-2022 \| Post-Production Editor, Writer \| Podcast tailored towards medical students features interviews with healthcare industry experts and leaders.
+
+***[Tour to the Wonderful](https://podcasts.apple.com/us/podcast/tour-to-the-wonderful-podcast/id1547001141)*** \| 2021 \| Producer, Editor \| A rabbi and his wife take a trip.
 
 ## <a name="Sound Recording"><a/>Sound Recording
 

@@ -7,30 +7,30 @@ layout: default
 
 ## <a name="LaborReporting"><a/>Labor
 
-**[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
+**[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \| 2021 \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
 
-**[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| *High Country News* \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
+**[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| 2020 \| *High Country News* \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
-**[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| *The New Republic* \| The app-based economy was already a race to the bottom. Amid the pandemic, how much lower things can go?
+**[Gig-working Through the Apocalypse](https://newrepublic.com/article/157227/gig-working-apocalypse)** \| 2020 \| *The New Republic* \| The app-based economy was already a race to the bottom. Amid the pandemic, how much lower things can go?
 
-**[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis)** \| *The New Republic* \| In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
+**[A Wildcat Strike Grows Out of a Housing Crisis](https://newrepublic.com/article/156591/wildcat-strike-grows-housing-crisis)** \| 2020 \| *The New Republic* \| In Santa Cruz, an unauthorized graduate student strike spilled into its second week with no clear resolution in sight.  
 
-**[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| *In These Times* \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  <br />
+**[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| 2018 \| *In These Times* \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  <br />
 
 
 ## <a name="Politics"><a/> Politics
 
-**[Animal Rights Activists Rescued Two Piglets From Slaughter. They Wanted to Get Caught.](https://newrepublic.com/article/165468/animal-rights-dxe-smithfield)** \| *The New Republic* \| Liberating the pigs from a Smithfield facility was just the first step in Wayne Hsiung and Paul Darwin Picklesimer’s grand plan. Now they want their legal case to start a sea change in animal rights.
+**[Animal Rights Activists Rescued Two Piglets From Slaughter. They Wanted to Get Caught.](https://newrepublic.com/article/165468/animal-rights-dxe-smithfield)** \| 2022 \| *The New Republic* \| Liberating the pigs from a Smithfield facility was just the first step in Wayne Hsiung and Paul Darwin Picklesimer’s grand plan. Now they want their legal case to start a sea change in animal rights.
 
-**[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
+**[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 
-**[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| *The Baffler* \| How ExxonMobil sold us climate complacency.    
+**[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| 2020 \|  *The Baffler* \| How ExxonMobil sold us climate complacency.    
 
-**[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| *The New Republic* \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.   
+**[The Fraught Realities of Financial Relief During a Pandemic](https://newrepublic.com/article/157631/unemployment-insurance-coronavirus-cares-act)** \| 2020 \| *The New Republic* \| For many Americans receiving unemployment insurance right now, finally coming out ahead shows how badly they’ve been left behind.   
 
-**[Old money, young guilt](http://inthesetimes.com/article/21665/millennials-trust-funds-Resource-Generation-money)** \| *In These Times* \| An upsurgent non-profit organizes wealthy millennials to talk openly about their family money -- and relinquish it.  
+**[Old money, young guilt](http://inthesetimes.com/article/21665/millennials-trust-funds-Resource-Generation-money)** \| 2019 \| *In These Times* \| An upsurgent non-profit organizes wealthy millennials to talk openly about their family money -- and relinquish it.  
 
-**[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \| *In These Times* \| Profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
+**[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \|  2019 \|  *In These Times* \| Profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
 
 
 ## <a name="Law"><a/> Law and Criminal Justice

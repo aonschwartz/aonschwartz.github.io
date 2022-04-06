@@ -3,9 +3,10 @@ title: "Writing"
 permalink: /writing/
 layout: default
 ---
-## **Writing:** *[Labor](#LaborReporting)* \| *[Politics](#Politics)* \| *[Law](#Law)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
+## **Writing:**
+*[Labor](#LaborReporting)* \| *[Politics](#Politics)* \| *[Law](#Law)* \| *[Essays](#Essays)* \| *[Newspaper Work](#Newspaper)*
 
-## <a name="LaborReporting"><a/>Labor
+### <a name="LaborReporting"><a/>Labor
 
 **[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \|  2021 \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
 
@@ -18,7 +19,7 @@ layout: default
 **[The Hidden Message of Amazon's $15 wage: 'You don't need a union'](http://inthesetimes.com/working/entry/21495/the_hidden_message_of_amazons_15_wage_you_dont_need_a_union)** \| 2018 \| *In These Times* \| The tech industry has long regarded itself as exceptional in its treatment of workers. How does Amazon's wage hike fit into this history?  <br />
 
 
-## <a name="Politics"><a/> Politics
+### <a name="Politics"><a/> Politics
 
 **[Animal Rights Activists Rescued Two Piglets From Slaughter. They Wanted to Get Caught.](https://newrepublic.com/article/165468/animal-rights-dxe-smithfield)** \| 2022 \| *The New Republic* \| Liberating the pigs from a Smithfield facility was just the first step in Wayne Hsiung and Paul Darwin Picklesimer’s grand plan. Now they want their legal case to start a sea change in animal rights.
 
@@ -33,7 +34,7 @@ layout: default
 **[Andrew Yang's guinea pigs](http://inthesetimes.com/article/21858/andrew-yang-universal-basic-income-presidential-candidate)** \|  2019 \|  *In These Times* \| Profile of New Hampshire family that presidential candidate Andrew Yang is personally giving $1,000 per month in a Universal Basic Income experiment.  <br />
 
 
-## <a name="Law"><a/> Law and Criminal Justice
+### <a name="Law"><a/> Law and Criminal Justice
 
 **[Disenfranchised by Debt](https://www.dissentmagazine.org/online_articles/disenfranchised-by-debt)** \| 2021 \|  *Dissent Magazine* \| Court fines, fees, and restitution payments fund government operations—and hold millions of people in dire financial straits.
 
@@ -43,7 +44,7 @@ layout: default
 
 **[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \|  2018 \| *Walla Walla Union-Bulletin* \| Experts and activists say court-imposed debt can undermine the reintegration process for the tens of thousands of ex-convicts living in precarity around Washington. Thanks, in part, to the example of a local woman who sought and successfully received relief from her legal financial obligations in court, Walla Walla County is at the forefront of widespread efforts for reform.<br />
 
-## <a name="Essays"><a/> Essays
+### <a name="Essays"><a/> Essays
 
 **[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| *The Baffler* \| Searching for the future of public space at Brooklyn's Central Library.  
 
@@ -55,7 +56,7 @@ layout: default
 
 **[Walla Walla Pub Crawl](https://whitmanwire.com/feature/2015/11/19/a-walla-walla-pub-crawl/)** \| 2015 \| *Whitman Wire* \| Account of drunken bender won 2015 Hosokawa Award for best feature story of the year.
 
-## <a name="Newspaper"><a/> Miscellaneous Newspaper Work
+### <a name="Newspaper"><a/> Miscellaneous Newspaper Work
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| Profile of local drag queen living in conservative agricultural region that is in the midst of cultural and economic transformation.  
 

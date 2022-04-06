@@ -8,7 +8,7 @@ layout: default
 
 ## <a name="Podcasts"><a/>Podcasts
 
-**[The Superhero Compelx](https://open.spotify.com/show/00Gez4EcupwNWA19boWYcq?si=0d713fa3a88c400f&nd=1)**
+**[The Superhero Complex](https://open.spotify.com/show/00Gez4EcupwNWA19boWYcq?si=0d713fa3a88c400f&nd=1)**
 
 **[The Assault on America](https://podcasts.apple.com/us/podcast/the-assault-on-america/id1583994242)**
 

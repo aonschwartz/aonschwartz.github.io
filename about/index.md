@@ -60,9 +60,9 @@ layout: default
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| In a conservative agricultural region undergoing a cultural and economic transformation, a local drag queen has commanded a passionate following.
 
-**[Need seen, need (and tummies) filled at Starbuck restaurant](http://www.union-bulletin.com/news/business/need-seen-need-and-tummies-filled-at-starbuck-restaurant/article_4e67136a-ae48-11e8-a3a0-1fdbb389eedc.html)** \| 2018 \|  *Walla Walla Union-Bulletin* \| In a rural Washington State town with a population just over one hundred, a husband and wife open up a restaurant.
-
 **[Generation Gap Bridged at Guitar Fest](http://www.union-bulletin.com/things_to_do/entertainment/generation-gap-bridged-at-guitar-fest/article_fb4c048a-24c5-11e8-9f9f-2b3b533e004b.html)** \| 2018 \|  *Walla Walla Union-Bulletin* \| Young musician wows 'Nam-generation audiences, quelling concerns that kids just don't play the blues no more.  
+
+**[Need seen, need (and tummies) filled at Starbuck restaurant](http://www.union-bulletin.com/news/business/need-seen-need-and-tummies-filled-at-starbuck-restaurant/article_4e67136a-ae48-11e8-a3a0-1fdbb389eedc.html)** \| 2018 \|  *Walla Walla Union-Bulletin* \| In a rural Washington State town with a population just over one hundred, a husband and wife open up a restaurant.
 
 **[Adventures With Godwin](https://whitmanwire.com/feature/2016/03/10/adventures-with-godwin/)** \| 2016 \|  *Whitman Wire* \| He's a physics student, a calligraphy champion, and so much more...
 

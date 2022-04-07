@@ -46,7 +46,7 @@ layout: default
 
 ### <a name="Essays"><a/> Essays
 
-**[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| *The Baffler* \| Searching for the future of public space at Brooklyn's Central Library.  
+**[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| 2019 \| *The Baffler* \| Searching for the future of public space at Brooklyn's Central Library.  
 
 **[Teleology](https://mangoprism.com/teleology/)** \| 2019 \|  *Mangoprism* \| How we murdered two city ducks in the crucible of youth.
 

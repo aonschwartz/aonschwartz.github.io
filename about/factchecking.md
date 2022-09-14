@@ -8,7 +8,7 @@ layout: default
 
 ### <a name="Podcasts"><a/>Podcasts
 
-***Forthcoming Podcast from Novel and Wondery*** | Fall 2022
+***Forthcoming Podcast from Novel and Wondery*** \| Fall 2022
 
 ***[The Superhero Complex](https://open.spotify.com/show/00Gez4EcupwNWA19boWYcq?si=0d713fa3a88c400f&nd=1)*** \| 2022 \| "When darkness falls over Seattle, a masked crusader emerges from the shadows. His name? Phoenix Jones—a charismatic cage fighter, hell-bent on ridding the streets of criminals."
 

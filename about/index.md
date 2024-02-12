@@ -40,11 +40,11 @@ layout: default
 
 ### <a name="Politics"><a/> Politics
 
-**[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \|
+**[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press*
 
 **[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 
-**[‘Cold Civil War’: At Tennessee Neighbors For Liberty Event in Soddy-Daisy, fears of an FBI run amok](https://www.timesfreepress.com/news/2024/feb/04/cold-civil-war-at-tennessee-neighbors-for-liberty/#/questions)** \| 2020 \| *Chattanooga Times Free Press* \|
+**[‘Cold Civil War’: At Tennessee Neighbors For Liberty Event in Soddy-Daisy, fears of an FBI run amok](https://www.timesfreepress.com/news/2024/feb/04/cold-civil-war-at-tennessee-neighbors-for-liberty/#/questions)** \| 2020 \| *Chattanooga Times Free Press*
 
 **[Old money, young guilt](http://inthesetimes.com/article/21665/millennials-trust-funds-Resource-Generation-money)** \| 2019 \| *In These Times* \| An upsurgent non-profit organizes wealthy millennials to talk openly about their family money—and relinquish it.
 
@@ -62,7 +62,7 @@ layout: default
 
 **[Disenfranchised by Debt](https://www.dissentmagazine.org/online_articles/disenfranchised-by-debt)** \| 2021 \|  *Dissent Magazine* \| Court fines, fees, and restitution payments fund government operations—and hold millions of people in dire financial straits.
 
-### <a name="Infrastructure"><a/> Public Infrastructure
+### <a name="Infrastructure"><a/> Infrastructure
 
 **[Why can’t I take a train from Chattanooga to Nashville? Lawmakers are talking, but challenges run deep ](https://www.timesfreepress.com/news/2023/jan/28/why-cant-i-take-a-train-to-nashville-tfp/#/questions)** \| 2018 \|  *Chattanooga Times Free Press*
 

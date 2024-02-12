@@ -11,13 +11,13 @@ layout: default
 
 **[The rise and fall of Knoxville Bishop Richard Stika](https://www.timesfreepress.com/news/2023/jul/08/the-rise-and-fall-of-stika-tfp/)** \|  2023 \| *Chattanooga Times Free Press* \| A priest called the East Tennessee bishop’s tenure a 'yearslong cloud of gaslighting.’ Stika said he did his best.
 
-**[Over decades, Chattanooga ministry encouraged millions to read the Bible more closely. Can it fulfill this mission through an app?](https://www.timesfreepress.com/news/2023/dec/16/over-decades-chattanooga-ministry-encouraged/)** \|  2023 \| *Chattanooga Times Free Press* \| With a fresh brand and a just-launched mobile application, the storied nonprofit seeks to replicate the model of habit-forming software like the Duolingo language app and bend it to the cause of Christ.
+**[Over decades, Chattanooga ministry encouraged millions to read the Bible more closely. Can it fulfill this mission through an app?](https://www.timesfreepress.com/news/2023/dec/16/over-decades-chattanooga-ministry-encouraged/)** \|  2023 \| *Chattanooga Times Free Press* \| With a fresh brand and a just-launched mobile application, the storied nonprofit Precept seeks to replicate the model of habit-forming software like the Duolingo language app and bend it to the cause of Christ.
 
-**[‘It feels so right’: Through pagan ritual, Chattanoogans forge link to ancestors and earth](https://www.timesfreepress.com/news/2023/oct/26/it-feels-so-right-through-pagan-ritual/)** \|  2021 \| *Chattanooga Times Free Press*
+**[‘It feels so right’: Through pagan ritual, Chattanoogans forge link to ancestors and earth](https://www.timesfreepress.com/news/2023/oct/26/it-feels-so-right-through-pagan-ritual/)** \|  2023 \| *Chattanooga Times Free Press*
 
-**[Lee University students sense a ‘revival’ during spontaneous outpouring of worship](https://www.timesfreepress.com/news/2023/feb/16/revival-lee-university/)** \|  2021 \| *Chattanooga Times Free Press* \| ‘The spirit was 100% moving', student says
+**[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| 2019 \| *The Baffler* \| Searching for the future of public space at Brooklyn's Central Library.  
 
-**[‘Not the original promise:’ Olivet Baptist Church pastor feels blindsided as Chattanooga Christian merges two microschools into one](https://www.timesfreepress.com/news/2023/dec/31/it-was-not-the-original-promise-olivet-baptist/)** \|  2024 \| *Chattanooga Times Free Press*
+**[Lee University students sense a ‘revival’ during spontaneous outpouring of worship](https://www.timesfreepress.com/news/2023/feb/16/revival-lee-university/)** \|  2023 \| *Chattanooga Times Free Press* \| ‘The spirit was 100% moving', student says
 
 **[Whistleblower: Chattanooga-based ‘John Ankerberg Show’ directs donations for audio Bibles to ministry expenses, private jets](https://www.timesfreepress.com/news/2023/apr/28/whistleblower-ankerberg-tfp/)** \|  2023 \| *Chattanooga Times Free Press*
 
@@ -28,7 +28,7 @@ layout: default
 
 ### <a name="BusinessReporting"><a/>Business
 
-**[Fraud allegations trail Chattanooga businessman](https://www.timesfreepress.com/croft-and-frost/)** \| 2024 \| *Chattanooga Times Free Press* \| Multi-part series on fraud allegations surrounding a local accountant—and the fallout from the collapse of his firm.
+**[Fraud allegations trail Chattanooga businessman](https://www.timesfreepress.com/croft-and-frost/)** \| 2023-2024 \| *Chattanooga Times Free Press* \| Multi-part series on fraud allegations surrounding a local accountant—and the fallout from the collapse of his firm.
 
 **[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| 2020 \| *High Country News* \|  When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
@@ -72,19 +72,17 @@ layout: default
 
 ### <a name="Culture"><a/> Cultural Profiles
 
-**[Land of Usher](https://www.timesfreepress.com/news/2024/feb/10/usher-is-performing-at-the-super-bowl-and-he-was/#/questions/4875691)** \| 2018 \|  *Chattanooga Times Free Press* \| How Chattanooga shaped Usher Raymond.
+**[Land of Usher](https://www.timesfreepress.com/news/2024/feb/10/usher-is-performing-at-the-super-bowl-and-he-was/#/questions/4875691)** \| 2024 \|  *Chattanooga Times Free Press* \| How Chattanooga shaped Usher Raymond.
 
 **[How a soldier saved by Signal Mountain’s Larry Taylor fought to see him receive the military’s highest honor](https://www.timesfreepress.com/news/2023/sep/02/how-a-soldier-saved-by-signal-mountains-larry/)** \| 2013 \|  *Chattanooga Times Free Press* \| A Vietnam War battle, a daring helicopter recuse—and a man's yearslong push to get Larry Taylor the Medal of Honor.
 
 **[A Chattanooga man’s recovery from addiction–and quest to love himself](https://www.timesfreepress.com/news/2023/apr/08/mans-recovery-tfp/)** \| 2023 \|  *Chattanooga Times Free Press* \| In Jesus, a recovering crack addict Markill Moore found purpose, and in his wife, Diane he found an ally, resolutely in his corner as he proclaims his love of God and learns to love himself.
 
-**[Venezuelan man seeks asylum for family while awaiting work card](https://www.timesfreepress.com/news/2023/dec/02/neediest-cases-fund-tides-over-venezuelan-man/)** \| 2024 \|  *Chattanooga Times Free Press* \| Fleeing Venezuela, Frankyln Casar and his family sold everything and left their world behind. They flew to Mexico City and hired a guide at great expense to get them into the U.S. Then a new set of challenges emerged.
+**[Venezuelan man seeks asylum for family while awaiting work card](https://www.timesfreepress.com/news/2023/dec/02/neediest-cases-fund-tides-over-venezuelan-man/)** \| 2023 \|  *Chattanooga Times Free Press* \| Fleeing Venezuela, Frankyln Casar and his family sold everything and left their world behind. They flew to Mexico City and hired a guide at great expense to get them into the U.S. Then a new set of challenges emerged.
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| In a conservative agricultural region undergoing a cultural and economic transformation, a local drag queen has commanded a passionate following.
 
 ### <a name="Essays"><a/> Essays
-
-**[Night at the Library](https://thebaffler.com/latest/a-night-at-the-library-schwartz)** \| 2019 \| *The Baffler* \| Searching for the future of public space at Brooklyn's Central Library.  
 
 **[Oil Springs Eternal](https://thebaffler.com/latest/oil-springs-eternal-schwartz)** \| 2020 \|  *The Baffler* \| How ExxonMobil sold us climate complacency.  
 

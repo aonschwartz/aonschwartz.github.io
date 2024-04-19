@@ -53,7 +53,7 @@ layout: default
 
 **[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| 2019 \| *The Outline* \| A law written in 1996 defines the limits of free speech on the internet today. A new court case involving the dating app Grindr will put it to the test.
 
-**[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \|  2018 \| *Walla Walla Union-Bulletin* \| Court-imposed debt can undermine the reintegration process for ex-convicts living in precarity around Washington State. Thanks, in part, to the example of a local woman who sought and successfully received relief from her debt, Walla Walla County is at the forefront of widespread efforts for reform.
+**[The price of a conviction](http://www.union-bulletin.com/news/courts_and_crime/the-price-of-a-conviction/article_6b4ced1e-d4c3-11e8-9c5a-f75fc47c39b0.html)** \|  2018 \| *Walla Walla Union-Bulletin* \| Court-imposed debt can undermine the reintegration process for ex-convicts living in poverty around Washington State. Thanks, in part, to the example of a local woman who sought and successfully received relief from her debt, Walla Walla County is at the forefront of widespread efforts for reform.
 
 ### <a name="Essays"><a/> Essays
 

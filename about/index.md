@@ -4,7 +4,20 @@ permalink: /writing/
 layout: default
 ---
 ## **Writing**
-*[Religion](#ReligionReporting)* \| *[Business](#BusinessReporting)* \| *[Infrastructure](#Infrastructure)* \| *[Politics](#Politics)* \|   *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
+*[Politics](#Politics)* \|*[Religion](#ReligionReporting)* \| *[Business](#BusinessReporting)* \| *[Infrastructure](#Infrastructure)* \| *   *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
+
+
+### <a name="Politics"><a/> Politics
+
+**[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel has been a frequent presence in statehouses nationwide, as an anti-boycott law spread to 35 states, including Alabama, Georgia and Tennessee.
+
+**[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
+
+**[‘Cold Civil War’: At Tennessee Neighbors For Liberty Event in Soddy-Daisy, fears of an FBI run amok](https://www.timesfreepress.com/news/2024/feb/04/cold-civil-war-at-tennessee-neighbors-for-liberty/#/questions)** \| 2023 \| *Chattanooga Times Free Press* \| In a speech before a rapt church audience, a traveling aggrieved former FBI agent said local law enforcement should rethink collaborations with his old agency, which he described as at once incompetent and devious.
+
+**[Protest candidates: The political educations of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In the incumbent U.S. Senator Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart whose nativism and barbed commentaries on the culture war issues of the day lead many, according to allies, to overlook a pragmatic sensibility formed over two-plus decades in Congress.
+
+
 
 
 ### <a name="ReligionReporting"><a/>Religion
@@ -31,13 +44,7 @@ layout: default
 
 **[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| 2018 \| *Walla Walla Union-Bulletin* \| Food quality declined and costs when up at the local penitentiary—and statewide—as a controversial business arm of the Department of Corrections took over the kitchens.
 
-### <a name="Politics"><a/> Politics
 
-**[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel has been a frequent presence in statehouses nationwide, as an anti-boycott law spread to 35 states, including Alabama, Georgia and Tennessee.
-
-**[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
-
-**[‘Cold Civil War’: At Tennessee Neighbors For Liberty Event in Soddy-Daisy, fears of an FBI run amok](https://www.timesfreepress.com/news/2024/feb/04/cold-civil-war-at-tennessee-neighbors-for-liberty/#/questions)** \| 2023 \| *Chattanooga Times Free Press* \| In a speech before a rapt church audience, a traveling aggrieved former FBI agent said local law enforcement should rethink collaborations with his old agency, which he described as at once incompetent and devious.
 
 ### <a name="Culture"><a/> Cultural Profiles
 

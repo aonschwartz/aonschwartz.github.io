@@ -29,7 +29,7 @@ layout: default
 
 **[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel has been a frequent presence in statehouses nationwide, as an anti-boycott law spread to 35 states, including Alabama, Georgia and Tennessee.
 
-**[Major Supreme Court decisions weaken federal ‘administrative state’ — but what about regulators here in Tennessee?](https://www.timesfreepress.com/news/2024/jul/02/major-supreme-court-decisions-weaken-federal/)** \| 2024 \|  *Chattanooga Times Free Press* \| Donald Trump advisers have called for the "deconstruction of the administrative state." The movement could have big effects on state government too.
+**[Major Supreme Court decisions weaken federal ‘administrative state’ — but what about regulators here in Tennessee?](https://www.timesfreepress.com/news/2024/jul/02/major-supreme-court-decisions-weaken-federal/)** \| 2024 \|  *Chattanooga Times Free Press* \| An anti-government movement could have big effects on state government too.
 
 ### <a name="BusinessReporting"><a/>Business
 

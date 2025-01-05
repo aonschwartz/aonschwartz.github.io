@@ -15,7 +15,7 @@ layout: default
 
 **[‘Allie always shows the real’: A Catholic mother, a jarring diagnosis, and an online world of hustle and communion](https://www.timesfreepress.com/news/2024/dec/14/allie-always-shows-the-real-a-chattanooga-mother//)** \|  2023 \| *Chattanooga Times Free Press* \| A dispatch from the #MomLife.
 
-**[A Chattanooga church’s electioneering apparently violated federal tax law. Does it matter?](https://www.timesfreepress.com/news/2024/sep/14/a-chattanooga-churchs-electioneering-apparently/#/questions/)** \| 2024 \| *Chattanooga Times Free Press* \| A Chattanooga megachurch church helped a raw milk enthusiast defeat an incumbent state lawmaker. Legal experts weigh in.
+**[A Chattanooga church’s electioneering apparently violated federal tax law. Does it matter?](https://www.timesfreepress.com/news/2024/sep/14/a-chattanooga-churchs-electioneering-apparently/#/questions/)** \| 2024 \| *Chattanooga Times Free Press* \| A  megachurch church helped a raw milk enthusiast defeat an incumbent Tennessee lawmaker. Legal experts weigh in.
 
 **[In Chattanooga cigar bar, evangelical ‘fellowship of merry men’ ponders its place in Trump’s America](https://www.timesfreepress.com/news/2024/dec/06/in-chattanooga-cigar-bar-evangelical-fellowship/#/questions)** \|  2024 \| *Chattanooga Times Free Press* \| At "Might & Mirth" gatherings, Glenn Jones said, men encourage one another while embodying God's masculine designs: Strong and forceful, but jolly all the same.
 

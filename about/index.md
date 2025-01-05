@@ -13,7 +13,7 @@ layout: default
 
 **[Over decades, Chattanooga ministry encouraged millions to read the Bible more closely. Can it fulfill this mission through an app?](https://www.timesfreepress.com/news/2023/dec/16/over-decades-chattanooga-ministry-encouraged/)** \|  2023 \| *Chattanooga Times Free Press* \| With a fresh brand and a just-launched mobile application, the storied nonprofit Precept seeks to replicate the model of habit-forming software like the Duolingo language app and bend it to the cause of Christ.
 
-**[‘Allie always shows the real’: A Catholic mother, a jarring diagnosis, and an online world of hustle and communion](https://www.timesfreepress.com/news/2024/dec/14/allie-always-shows-the-real-a-chattanooga-mother//)** \|  2023 \| *Chattanooga Times Free Press* \| A dispatch from #MomLife.
+**[‘Allie always shows the real’: A Catholic mother, a jarring diagnosis, and an online world of hustle and communion](https://www.timesfreepress.com/news/2024/dec/14/allie-always-shows-the-real-a-chattanooga-mother//)** \|  2023 \| *Chattanooga Times Free Press* \| A dispatch from the #MomLife.
 
 **[A Chattanooga church’s electioneering apparently violated federal tax law. Does it matter?](https://www.timesfreepress.com/news/2024/sep/14/a-chattanooga-churchs-electioneering-apparently/#/questions/)** \| 2024 \| *Chattanooga Times Free Press* \| A Chattanooga megachurch church helped a raw milk enthusiast defeat an incumbent state lawmaker. Legal experts weigh in.
 

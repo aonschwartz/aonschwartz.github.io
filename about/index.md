@@ -45,13 +45,13 @@ layout: default
 
 **[After nightmare loss of family on Chattanooga street corner, what could justice ever really look like? ](https://www.timesfreepress.com/news/2024/apr/13/a-final-stroll-around-chattanooga-became-a/)**\|  2024  \| *Chattanooga Times Free Press* Bundled in monochrome dark green, his young child ran around the bridge, restrained by a yellow harness with a leash managed by his wife. Then a bang, and the minivan came spinning toward them.
 
-**[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| 2018 \| *Walla Walla Union-Bulletin* \| Food quality declined and costs when up at the local penitentiary—and statewide—as a controversial business arm of the Department of Corrections took over the kitchens.
+**[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| 2018 \| *Walla Walla Union-Bulletin* \| Food quality declined and costs when up at the local penitentiary—and statewide—as a business arm of the Department of Corrections took over the kitchens.
 
 ### <a name="Culture"><a/> Cultural Profiles
 
 **[Land of Usher](https://www.timesfreepress.com/news/2024/feb/10/usher-is-performing-at-the-super-bowl-and-he-was/#/questions/4875691)** \| 2024 \|  *Chattanooga Times Free Press* \| How Chattanooga shaped Usher Raymond.
 
-**[How a soldier saved by Signal Mountain’s Larry Taylor fought to see him receive the military’s highest honor](https://www.timesfreepress.com/news/2023/sep/02/how-a-soldier-saved-by-signal-mountains-larry/)** \| 2013 \|  *Chattanooga Times Free Press* \| A Vietnam War battle, a daring helicopter recuse—and a man's yearslong push to get Larry Taylor the Medal of Honor.
+**[How a soldier saved by Signal Mountain’s Larry Taylor fought to see him receive the military’s highest honor](https://www.timesfreepress.com/news/2023/sep/02/how-a-soldier-saved-by-signal-mountains-larry/)** \| 2013 \|  *Chattanooga Times Free Press* \| A Vietnam War battle, a daring helicopter recuse—and a man's yearslong push to get his old combat buddy the Medal of Honor.
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| In a conservative agricultural region undergoing a cultural and economic transformation, a local drag queen has commanded a passionate following.
 

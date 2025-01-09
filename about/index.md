@@ -27,7 +27,7 @@ layout: default
 
 **[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart whose barbed commentaries on the culture war issues of the day lead many, according to allies, to overlook a pragmatic sensibility formed over two-plus decades in Congress.
 
-**[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel has been a frequent presence in statehouses nationwide, as an anti-boycott law spread to 35 states, including Alabama, Georgia and Tennessee.
+**[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel helped bring an anti-boycott law to 35 states, including Alabama, Georgia and Tennessee.
 
 **[Major Supreme Court decisions weaken federal ‘administrative state’ — but what about regulators here in Tennessee?](https://www.timesfreepress.com/news/2024/jul/02/major-supreme-court-decisions-weaken-federal/)** \| 2024 \|  *Chattanooga Times Free Press* \| An anti-government movement could have big effects on state agencies too.
 

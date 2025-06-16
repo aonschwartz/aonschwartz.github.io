@@ -4,7 +4,7 @@ permalink: /writing/
 layout: default
 ---
 ## **Writing**
-*[Business](#BusinessReporting)* *[Immigration](#ImmigrationReporting)* \|\| *[Religion](#ReligionReporting)* \|  *[Politics](#Politics)* \| *[Infrastructure](#Infrastructure)* \| *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
+*[Business](#BusinessReporting)* \| *[Immigration](#ImmigrationReporting)* \|*[Religion](#ReligionReporting)* \|  *[Politics](#Politics)* \| *[Infrastructure](#Infrastructure)* \| *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
 
 
 ### <a name="BusinessReporting"><a/>Business

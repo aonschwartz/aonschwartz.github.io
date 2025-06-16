@@ -31,7 +31,7 @@ layout: default
 
 **[The rise and fall of Knoxville Bishop Richard Stika](https://www.timesfreepress.com/news/2023/jul/08/the-rise-and-fall-of-stika-tfp/)** \|  2023 \| *Chattanooga Times Free Press* \| A priest called the East Tennessee bishop’s tenure a 'yearslong cloud of gaslighting.’ Stika said he did his best.
 
-**[‘Allie always shows the real’: A Catholic mother, a jarring diagnosis, and an online world of hustle and communion](https://www.timesfreepress.com/news/2024/dec/14/allie-always-shows-the-real-a-chattanooga-mother//)** \|  2023 \| *Chattanooga Times Free Press* \| A #MomLife influencer documents her biggest challenge yet. 
+**[‘Allie always shows the real’: A Catholic mother, a jarring diagnosis, and an online world of hustle and communion](https://www.timesfreepress.com/news/2024/dec/14/allie-always-shows-the-real-a-chattanooga-mother//)** \|  2024 \| *Chattanooga Times Free Press* \| A #MomLife influencer documents her biggest challenge yet. 
 
 **[A Chattanooga church’s electioneering apparently violated federal tax law. Does it matter?](https://www.timesfreepress.com/news/2024/sep/14/a-chattanooga-churchs-electioneering-apparently/#/questions/)** \| 2024 \| *Chattanooga Times Free Press* \| A  megachurch church helped a raw milk enthusiast defeat a powerful incumbent Tennessee lawmaker. Legal experts weigh in.
 
@@ -44,7 +44,7 @@ layout: default
 **[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart whose barbed commentaries on the culture war issues of the day lead many, according to allies, to overlook a subtle pragmatic streak.
 
 **[Before state money flowed, Tennessee faith project had big private donor: the governor
-](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2024 \| *Chattanooga Times Free Press* \| Tennessee lawmakers allowed a passion project of Gov. Bill Lee to receive what would end up being millions in taxpayer dollars. That prior to this the governor had personally funded the effort raises "red flags" for some. 
+](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| Tennessee lawmakers allowed a passion project of Gov. Bill Lee to receive what would end up being millions in taxpayer dollars. That prior to this the governor had personally funded the effort raises "red flags" for some. 
 
 **[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel helped bring an anti-boycott law to 35 states, including Alabama, Georgia and Tennessee. How did it do it?
 

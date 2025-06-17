@@ -8,7 +8,7 @@ layout: default
 
 ### <a name="AudioStories"><a/>Audio Stories
 
-**[Fly-fishing programs catch on as therapy for troops and veterans recovering from trauma](https://beta.prx.org/stories/394771)** \| 2021 \| Reporter, Writer, Producer \| Around the country, groups are teaching wounded troops and veterans to fly fish. While there's not much research on the therapeutic benefits, some say the experience helps them heal.
+**[Fly-fishing programs catch on as therapy for troops and veterans recovering from trauma]([https://beta.prx.org/stories/394771](https://americanhomefront.wunc.org/news/2021-11-23/fly-fishing-programs-catch-on-as-therapy-for-troops-and-veterans-recovering-from-trauma))** \| 2021 \| Reporter, Writer, Producer \| Around the country, groups are teaching wounded troops and veterans to fly fish. While there's not much research on the therapeutic benefits, some say the experience helps them heal.
 
 **[This Moose Might Survive ](https://soundcloud.com/andrew-schwartz-191964276/this-moose-might-survive)** \| 2020 \| Reporter, Writer, Producer \| In October 2020, Dave DeMerchant led clients into the North Maine Woods for his last moose hunt before the season ended. It was a particularly strange time for DeMerchant, a guide of more than three decades. Just a few weeks prior, he had received some unsettling news.
 
@@ -24,7 +24,7 @@ layout: default
 
 ### <a name="Sound Recording"><a/>Sound Recording
 
-**Tape Syncs** \| 2021-2022 \| I have done tape syncs for *Mashup Americans*, the *BBC*, and *This American Life.*
+**Tape Syncs** \| 2021-2024 \| I have done tape syncs for *Mashup Americans*, the *BBC*, *This American Life,* and other forthcoming productions.
 
 ***[Meet Me in Sankt Polten](https://www.youtube.com/watch?app=desktop&v=n6OmmVVn7vg)*** \| 2022 \| Producer, Sound Recording and Design \| At the prompting of a mysterious letter, a restless Austrian student comes to see herself as a player in an elaborate spy operation, as she stalks a roommate who has recently rejected her romantic advances.
 

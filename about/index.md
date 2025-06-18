@@ -9,7 +9,7 @@ layout: default
 
 ### <a name="BusinessReporting"><a/>Business
 
-**[How the life coaching industry transformed Jonathan Frost](https://www.timesfreepress.com/news/2024/may/18/head-how-the-life-coaching-industry-transformed/)** \|2024 \| *Chattanooga Times Free Press* \| Years before the fraud allegations, a Chattanooga accountant was molding himself in the image of a new set of mentors. Story followed multipart investigation, which won an [Eppy Award](https://www.eppyawards.com/) for best business reporting.
+**[How the life coaching industry transformed Jonathan Frost](https://www.timesfreepress.com/news/2024/may/18/head-how-the-life-coaching-industry-transformed/)** \|2024 \| *Chattanooga Times Free Press* \| Years before the fraud allegations, a Chattanooga accountant was molding himself in the image of a new set of mentors. Story followed multipart investigation, which won a national [Eppy Award](https://www.eppyawards.com/) for business reporting.
 
 **[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \|  2021 \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
 

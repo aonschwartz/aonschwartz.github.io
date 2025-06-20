@@ -4,10 +4,10 @@ permalink: /writing/
 layout: default
 ---
 ## **Writing**
-*[Business](#BusinessReporting)* \| *[Immigration](#ImmigrationReporting)* \| *[Religion](#ReligionReporting)* \|  *[Politics](#Politics)* \| *[Infrastructure](#Infrastructure)* \| *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
+*[Money](#BusinessReporting)* \| *[Immigration](#ImmigrationReporting)* \| *[Religion](#ReligionReporting)* \|  *[Politics](#Politics)* \| *[Infrastructure](#Infrastructure)* \| *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
 
 
-### <a name="BusinessReporting"><a/>Business
+### <a name="BusinessReporting"><a/>Money
 
 **[How the life coaching industry transformed Jonathan Frost](https://www.timesfreepress.com/news/2024/may/18/head-how-the-life-coaching-industry-transformed/)** \| 2024 \| *Chattanooga Times Free Press* \| Years before the fraud allegations, a Chattanooga accountant was molding himself in the image of a new set of mentors. Story followed multipart investigation, which won a national [Eppy Award](https://www.eppyawards.com/) for business reporting.
 
@@ -15,6 +15,8 @@ layout: default
 
 **[Before state money flowed, Tennessee faith project had big private donor: the governor
 ](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| Tennessee lawmakers allowed a passion project of Gov. Bill Lee to receive what would end up being millions in taxpayer dollars. Previously unreported documents show the governor had previously been the effort's largest private donor, a revelation that for some raised serious red flags.
+
+**[Millennials Are Ruining Trust Funds](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2019 \| *In These Times* \| A movement encourages wealthy young people to give away their inheritances.
 
 ### <a name="ImmigrationReporting"><a/>Immigration
 

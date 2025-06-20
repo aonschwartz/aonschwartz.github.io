@@ -50,9 +50,9 @@ layout: default
 
 ### <a name="Infrastructure"><a/> Infrastructure
 
-**[Why can’t I take a train from Chattanooga to Nashville? Lawmakers are talking, but challenges run deep ](https://www.timesfreepress.com/news/2023/jan/28/why-cant-i-take-a-train-to-nashville-tfp/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| State and local lawmakers have talked of reviving passenger rail in every decade since it left Chattanooga. Is this time any different?
+**[Why can’t I take a train from Chattanooga to Nashville? Lawmakers are talking, but challenges run deep](https://www.timesfreepress.com/news/2023/jan/28/why-cant-i-take-a-train-to-nashville-tfp/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| State and local lawmakers have talked of reviving passenger rail in every decade since it left Chattanooga. Is this time any different?
 
-**[After nightmare loss of family on Chattanooga street corner, what could justice ever really look like? ](https://www.timesfreepress.com/news/2024/apr/13/a-final-stroll-around-chattanooga-became-a/)**\|  2024  \| *Chattanooga Times Free Press* Bundled in monochrome dark green, his young child ran around the bridge, restrained by a yellow harness with a leash managed by his wife. Then a bang, and the minivan came spinning toward them.
+**[After nightmare loss of family on Chattanooga street corner, what could justice ever really look like?](https://www.timesfreepress.com/news/2024/apr/13/a-final-stroll-around-chattanooga-became-a/)** \|  2024  \| *Chattanooga Times Free Press* \| Bundled in monochrome dark green, his young child ran around the bridge, restrained by a yellow harness with a leash managed by his wife. Then a bang, and the minivan came spinning toward them.
 
 **[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| 2018 \| *Walla Walla Union-Bulletin* \| Food quality declined and costs when up at the local penitentiary—and statewide—as a business arm of the Department of Corrections took over the kitchens.
 

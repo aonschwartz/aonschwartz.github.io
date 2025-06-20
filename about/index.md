@@ -22,7 +22,7 @@ layout: default
 
 **[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 
-**[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart whose barbed commentaries on the culture war issues of the day lead many, according to allies, to underestimate her pragmatic streak.
+**[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart, known to enemies primarily for her barbed commentaries on the day's culture war flare-up. But allies say Blackburn does more than throw bombs. 
 
 ### <a name="ImmigrationReporting"><a/>Immigration
 

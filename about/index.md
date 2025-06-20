@@ -20,8 +20,6 @@ layout: default
 
 **[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 
-**[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart, known to critics primarily for throwing fuel on the day's culture war flare-up. But allies see in Blackburn something more. 
-
 ### <a name="ImmigrationReporting"><a/>Immigration
 
 **[Luis Mauricio Durón wonders: Is Trump’s mass deportation talk bluster, or something more?](https://www.timesfreepress.com/news/2024/nov/16/in-chattanooga-latino-community-wonders-if-trump/)** \| 2024 \| *Chattanooga Times Free Press* \| A Mexican man who has resided in the U.S. illegally for decades reflects on the coming presidency of Donald Trump.
@@ -50,7 +48,7 @@ layout: default
 
 **[After nightmare loss of family on Chattanooga street corner, what could justice ever really look like?](https://www.timesfreepress.com/news/2024/apr/13/a-final-stroll-around-chattanooga-became-a/)** \|  2024  \| *Chattanooga Times Free Press* \| Bundled in monochrome dark green, his young child ran around the bridge, restrained by a yellow harness with a leash managed by his wife. Then a bang, and the minivan came spinning toward them.
 
-**[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| 2018 \| *Walla Walla Union-Bulletin* \| Food quality declined and costs when up at the local penitentiary—and statewide—as a business arm of the Department of Corrections took over the kitchens.
+**[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| 2018 \| *Walla Walla Union-Bulletin* \| Food quality declined and costs when up at the local penitentiary — and statewide — when a business arm of the Department of Corrections took over the kitchens.
 
 ### <a name="Culture"><a/> Cultural Profiles
 
@@ -60,7 +58,7 @@ layout: default
 
 **[How a soldier saved by Signal Mountain’s Larry Taylor fought to see him receive the military’s highest honor](https://www.timesfreepress.com/news/2023/sep/02/how-a-soldier-saved-by-signal-mountains-larry/)** \| 2013 \|  *Chattanooga Times Free Press* \| A Vietnam War battle, a daring helicopter recuse—and a man's yearslong push to get his old combat buddy the Medal of Honor.
 
-**[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| In a conservative agricultural region undergoing a cultural and economic transformation, a local drag queen has commanded a passionate following.
+**[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| In a conservative agricultural region undergoing a cultural and economic transformation, a local drag queen commands a passionate following.
 
 ### <a name="Law"><a/>Law
 
@@ -69,6 +67,8 @@ layout: default
 **[Major Supreme Court decisions weaken federal ‘administrative state’ — but what about regulators here in Tennessee?](https://www.timesfreepress.com/news/2024/jul/02/major-supreme-court-decisions-weaken-federal/)** \| 2024 \|  *Chattanooga Times Free Press* \| The Trump admistration wants to gut the power of federal agencies. State governments are changing too. 
 
 **[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel helped bring an anti-boycott law to 35 states, including Alabama, Georgia and Tennessee. How did it do it?
+
+**[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart, known to critics primarily for throwing fuel on the day's culture war flare-up. But allies see in Blackburn something more. 
 
 **[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| 2019 \| *The Outline* \| A law written in 1996 defines the limits of free speech on the internet today. A new court case involving the dating app Grindr will put it to the test.
 

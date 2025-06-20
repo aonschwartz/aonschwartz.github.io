@@ -14,7 +14,7 @@ layout: default
 **[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \|  2021 \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
 
 **[Before state money flowed, Tennessee faith project had big private donor: the governor
-](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| Tennessee lawmakers allowed a passion project of Gov. Bill Lee to receive what would end up being millions in taxpayer dollars. Previously unreported documents show the governor had previously been the effort's largest private donor, a revelation that for some raised serious red flags.
+](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| The Tennessee governor was easily largest private donor to his faith-based passion project, previously unreported documents show. Then, at his urging, Tennessee lawmakers tweaked the law to send the nonprofit millions in taxpayer dollars. 
 
 **[Millennials Are Ruining Trust Funds](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2019 \| *In These Times* \| Profile of a movement that encourages wealthy young people to give away their inheritances.
 

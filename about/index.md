@@ -18,7 +18,7 @@ layout: default
 
 **[Millennials Are Ruining Trust Funds](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2019 \| *In These Times* \| Profile of a movement that encourages wealthy young people to give away their inheritances.
 
-**[How a Washington ski patrol learned to unionize](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2020 \| High Country News* \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
+**[How a Washington ski patrol learned to unionize](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2020 \| *High Country News* \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
 **[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 

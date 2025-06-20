@@ -13,7 +13,8 @@ layout: default
 
 **[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \|  2021 \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
 
-**[How a Washington ski patrol learned to unionize](https://www.hcn.org/issues/52.7/north-labor-how-a-washington-ski-patrol-learned-to-unionize)** \| 2020 \| *High Country News* \|  When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
+**[Before state money flowed, Tennessee faith project had big private donor: the governor
+](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| Tennessee lawmakers allowed a passion project of Gov. Bill Lee to receive what would end up being millions in taxpayer dollars. Previously unreported documents show the governor had previously been the effort's largest private donor, a revelation that for some raised serious red flags.
 
 ### <a name="ImmigrationReporting"><a/>Immigration
 
@@ -42,9 +43,6 @@ layout: default
 **[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 
 **[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart whose barbed commentaries on the culture war issues of the day lead many, according to allies, to overlook a subtle pragmatic streak.
-
-**[Before state money flowed, Tennessee faith project had big private donor: the governor
-](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| Tennessee lawmakers allowed a passion project of Gov. Bill Lee to receive what would end up being millions in taxpayer dollars. That prior to this the governor had personally funded the effort raises "red flags" for some. 
 
 **[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel helped bring an anti-boycott law to 35 states, including Alabama, Georgia and Tennessee. How did it do it?
 

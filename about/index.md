@@ -4,7 +4,7 @@ permalink: /writing/
 layout: default
 ---
 ## **Writing**
-*[Money and Power](#BusinessReporting)* \| *[Immigration](#ImmigrationReporting)* \| *[Religion](#ReligionReporting)* \| *[Infrastructure](#Infrastructure)* \| *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
+*[Money and Power](#BusinessReporting)* \| *[Immigration](#ImmigrationReporting)* \| *[Religion](#ReligionReporting)* \| *[Infrastructure](#Infrastructure)* \| *[Culture](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
 
 
 ### <a name="BusinessReporting"><a/>Money and Power
@@ -50,7 +50,7 @@ layout: default
 
 **[Food issues run deep at Washington State Penitentiary](http://www.union-bulletin.com/news/food-issues-run-deep-at-washington-state-penitentiary/article_0da49ace-45c4-11e8-a702-134b28fbc3b2.html)** \| 2018 \| *Walla Walla Union-Bulletin* \| Food quality declined and costs when up at the local penitentiary — and statewide — when a business arm of the Department of Corrections took over the kitchens.
 
-### <a name="Culture"><a/> Cultural Profiles
+### <a name="Culture"><a/> Culture
 
 **[Land of Usher](https://www.timesfreepress.com/news/2024/feb/10/usher-is-performing-at-the-super-bowl-and-he-was/#/questions/4875691)** \| 2024 \|  *Chattanooga Times Free Press* \| How Chattanooga shaped Usher Raymond.
 

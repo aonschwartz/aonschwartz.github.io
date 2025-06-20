@@ -14,11 +14,9 @@ layout: default
 **[NYC’s Private Garbage Industry Is Getting Overhauled. Can a Notorious Teamsters Local Clean Up Again?](https://www.motherjones.com/politics/2021/10/teamsters-local-813-nyc-garbage-mob/)** \|  2021 \| *Mother Jones* \| Inside Local 813’s campaign to escape the trash heap of history.
 
 **[Before state money flowed, Tennessee faith project had big private donor: the governor
-](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| The Tennessee governor was easily largest private donor to his faith-based passion project, previously unreported documents show. Then, at his urging, Tennessee lawmakers tweaked the law to send the nonprofit millions in taxpayer dollars. 
+](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| The Tennessee governor was easily largest private donor to his faith-based passion project, previously unreported documents show. Then, at his urging, Tennessee lawmakers tweaked the law to send the nonprofit millions in taxpayer funds.  
 
 **[Millennials Are Ruining Trust Funds](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2019 \| *In These Times* \| Profile of a movement that encourages wealthy young people to give away their inheritances.
-
-**[How a Washington ski patrol learned to unionize](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2020 \| *High Country News* \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
 **[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 
@@ -46,8 +44,6 @@ layout: default
 
 **[In Chattanooga cigar bar, evangelical ‘fellowship of merry men’ ponders its place in Trump’s America](https://www.timesfreepress.com/news/2024/dec/06/in-chattanooga-cigar-bar-evangelical-fellowship/#/questions)** \|  2024 \| *Chattanooga Times Free Press* \| At "Might & Mirth" gatherings, Glenn Jones said, men encourage one another while embodying God's masculine designs: Strong and forceful, but jolly all the same.
 
-**[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel helped bring an anti-boycott law to 35 states, including Alabama, Georgia and Tennessee. How did it do it?
-
 ### <a name="Infrastructure"><a/> Infrastructure
 
 **[Why can’t I take a train from Chattanooga to Nashville? Lawmakers are talking, but challenges run deep](https://www.timesfreepress.com/news/2023/jan/28/why-cant-i-take-a-train-to-nashville-tfp/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| State and local lawmakers have talked of reviving passenger rail in every decade since it left Chattanooga. Is this time any different?
@@ -71,6 +67,8 @@ layout: default
 **[Animal Rights Activists Rescued Two Piglets From Slaughter. They Wanted to Get Caught.](https://newrepublic.com/article/165468/animal-rights-dxe-smithfield)** \| 2022 \| *The New Republic* \| Liberating the pigs from a Smithfield facility was just the first step in Wayne Hsiung and Paul Darwin Picklesimer’s grand plan. Now they want their legal case to start a sea change in animal rights.
 
 **[Major Supreme Court decisions weaken federal ‘administrative state’ — but what about regulators here in Tennessee?](https://www.timesfreepress.com/news/2024/jul/02/major-supreme-court-decisions-weaken-federal/)** \| 2024 \|  *Chattanooga Times Free Press* \| The Trump admistration wants to gut the power of federal agencies. State governments are changing too. 
+
+**[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel helped bring an anti-boycott law to 35 states, including Alabama, Georgia and Tennessee. How did it do it?
 
 **[The Grindr lawsuit that could change the internet](https://theoutline.com/post/6968/grindr-lawsuit-matthew-herrick?utm_source=)** \| 2019 \| *The Outline* \| A law written in 1996 defines the limits of free speech on the internet today. A new court case involving the dating app Grindr will put it to the test.
 

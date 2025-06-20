@@ -20,6 +20,10 @@ layout: default
 
 **[How a Washington ski patrol learned to unionize](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2020 \| High Country News* \| When Vail Resorts added Stevens Pass to its empire, ski patrollers feared becoming fungible parts in a corporate machine. So they organized.
 
+**[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
+
+**[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart whose barbed commentaries on the culture war issues of the day lead many, according to allies, to overlook a subtle pragmatic streak.
+
 ### <a name="ImmigrationReporting"><a/>Immigration
 
 **[Luis Mauricio Durón wonders: Is Trump’s mass deportation talk bluster, or something more?](https://www.timesfreepress.com/news/2024/nov/16/in-chattanooga-latino-community-wonders-if-trump/)** \| 2024 \| *Chattanooga Times Free Press* \| A Mexican man who has resided in the U.S. illegally for decades reflects on the coming presidency of Donald Trump.
@@ -41,12 +45,6 @@ layout: default
 **[A Chattanooga church’s electioneering apparently violated federal tax law. Does it matter?](https://www.timesfreepress.com/news/2024/sep/14/a-chattanooga-churchs-electioneering-apparently/#/questions/)** \| 2024 \| *Chattanooga Times Free Press* \| A  megachurch church helped a raw milk enthusiast defeat a powerful incumbent Tennessee lawmaker. Legal experts weigh in.
 
 **[In Chattanooga cigar bar, evangelical ‘fellowship of merry men’ ponders its place in Trump’s America](https://www.timesfreepress.com/news/2024/dec/06/in-chattanooga-cigar-bar-evangelical-fellowship/#/questions)** \|  2024 \| *Chattanooga Times Free Press* \| At "Might & Mirth" gatherings, Glenn Jones said, men encourage one another while embodying God's masculine designs: Strong and forceful, but jolly all the same.
-
-### <a name="Politics"><a/> Politics
-
-**[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
-
-**[Protest candidates: The political educations' of Marsha Blackburn and Gloria Johnson](https://www.timesfreepress.com/news/2024/oct/12/protest-candidates-how-marsha-blackburn-and/)** \| 2024 \| *Chattanooga Times Free Press* \| In Marsha Blackburn, Gloria Johnson challenges Tennessee's first female senator and a Fox News stalwart whose barbed commentaries on the culture war issues of the day lead many, according to allies, to overlook a subtle pragmatic streak.
 
 **[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel helped bring an anti-boycott law to 35 states, including Alabama, Georgia and Tennessee. How did it do it?
 

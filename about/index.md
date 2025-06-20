@@ -4,7 +4,7 @@ permalink: /writing/
 layout: default
 ---
 ## **Writing**
-*[Money and Power](#BusinessReporting)* \| *[Immigration](#ImmigrationReporting)* \| *[Religion](#ReligionReporting)* \|  *[Politics](#Politics)* \| *[Infrastructure](#Infrastructure)* \| *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
+*[Money and Power](#BusinessReporting)* \| *[Immigration](#ImmigrationReporting)* \| *[Religion](#ReligionReporting)* \| *[Infrastructure](#Infrastructure)* \| *[Cultural Profiles](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
 
 
 ### <a name="BusinessReporting"><a/>Money and Power

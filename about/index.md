@@ -16,8 +16,6 @@ layout: default
 **[Before state money flowed, Tennessee faith project had big private donor: the governor
 ](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2025 \| *Chattanooga Times Free Press* \| The Tennessee governor was easily largest private donor to his faith-based passion project, previously unreported documents show. Then, at his urging, Tennessee lawmakers tweaked the law to send the nonprofit millions in taxpayer funds.  
 
-**[Millennials Are Ruining Trust Funds](https://www.timesfreepress.com/news/2025/apr/26/before-state-money-flowed-tennessee-faith-project/)** \| 2019 \| *In These Times* \| Profile of a movement that encourages wealthy young people to give away their inheritances.
-
 **[Can Seattle’s Minimum Wage Crusader Survive Her Recall Election?](https://newrepublic.com/article/164600/kshama-sawant-minimum-wage-recall)** \| 2021 \| *The New Republic* \| Kshama Sawant brought an uncommon passion to a successful stint on the City Council. It may now be her undoing.
 
 ### <a name="ImmigrationReporting"><a/>Immigration

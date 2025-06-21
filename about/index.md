@@ -54,7 +54,7 @@ layout: default
 
 **[Near Chattanooga, a tiny (and monumental) glimpse into the origins of the written alphabet](https://www.timesfreepress.com/news/2025/jan/25/near-chattanooga-a-tiny-and-monumental-glimpse/)** \| 2025 \|  *Chattanooga Times Free Press* \| "The development of writing is probably the most important invention of human kind," said an archaeologist who helped unearth the the ivory comb of Tel Lachish.
 
-**[How a soldier saved by Signal Mountain’s Larry Taylor fought to see him receive the military’s highest honor](https://www.timesfreepress.com/news/2023/sep/02/how-a-soldier-saved-by-signal-mountains-larry/)** \| 2013 \|  *Chattanooga Times Free Press* \| A Vietnam War battle, a daring helicopter recuse—and a man's yearslong push to get his old combat buddy the Medal of Honor.
+**[How a soldier saved by Signal Mountain’s Larry Taylor fought to see him receive the military’s highest honor](https://www.timesfreepress.com/news/2023/sep/02/how-a-soldier-saved-by-signal-mountains-larry/)** \| 2023 \|  *Chattanooga Times Free Press* \| A Vietnam War battle, a daring helicopter recuse—and a man's yearslong push to get his old combat buddy the Medal of Honor.
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| In a conservative agricultural region undergoing a cultural and economic transformation, a local drag queen commands a passionate following.
 

@@ -14,7 +14,7 @@ layout: default
 
 **[Surf](https://soundcloud.com/andrew-schwartz-191964276/surfing)** \| 2020 \| reporter, producer \| When the hordes disperse in the twilight hours one late-summer day, Scarborough's legendary Higgins Beach returns to the surfers.
 
-**[The Kids Came Home](https://soundcloud.com/andrew-schwartz-191964276/the-kids-came-home)** \| 2021 \| reporter, Co-producer \| The pandemic sets in, the kids come home, and an old life returns, if only for a while.
+**[The Kids Came Home](https://soundcloud.com/andrew-schwartz-191964276/the-kids-came-home)** \| 2021 \| reporter, producer \| The pandemic sets in, the kids come home, and an old life returns, if only for a while.
 
 ### <a name="Podcasts"><a/>Podcasts
 

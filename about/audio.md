@@ -26,8 +26,8 @@ layout: default
 
 **Tape Syncs** \| 2021-2024 \| I have done tape syncs for *Mashup Americans*, the *BBC*, *This American Life,* and other forthcoming productions.
 
-***Lucky Bird*** \| 2025 \| Producer, Sound Recording and Design \| During a visit from an old friend, a woman's recent cancer diagnosis forces the relationship into new terrain.
+***Lucky Bird*** \| 2025 \| Producer, sound designer \| During a visit from an old friend, a woman's recent cancer diagnosis forces the relationship into new terrain.
 
-***[Meet Me in Sankt Polten](https://www.youtube.com/watch?app=desktop&v=n6OmmVVn7vg)*** \| 2022 \| Producer, Sound Recording and Design \| At the prompting of a mysterious letter, a restless Austrian student comes to see herself as a player in an elaborate spy operation, as she stalks a roommate who has recently rejected her romantic advances.
+***[Meet Me in Sankt Polten](https://www.youtube.com/watch?app=desktop&v=n6OmmVVn7vg)*** \| 2022 \| Producer, sound designer \| At the prompting of a mysterious letter, a restless Austrian student comes to see herself as a player in an elaborate spy operation, as she stalks a roommate who has recently rejected her romantic advances.
 
-***[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)*** \| 2021 \| Producer, Sound Technician \| Short Film about a woman drawing in a park. She has forgotten her blue pencil.
+***[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)*** \| 2021 \| Producer, sound recordist \| Short Film about a woman drawing in a park. She has forgotten her blue pencil.

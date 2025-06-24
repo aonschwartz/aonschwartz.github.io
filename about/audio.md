@@ -22,9 +22,11 @@ layout: default
 
 ***[Tour to the Wonderful](https://podcasts.apple.com/us/podcast/tour-to-the-wonderful-podcast/id1547001141)*** \| 2021 \| Producer, Editor \| A rabbi and his wife take a trip.
 
-### <a name="Sound Recording"><a/>Sound Recording
+### <a name="Sound Recording and Production"><a/>Sound Recording
 
 **Tape Syncs** \| 2021-2024 \| I have done tape syncs for *Mashup Americans*, the *BBC*, *This American Life,* and other forthcoming productions.
+
+***Lucky Bird*** \| 2025 \| During a visit from an old friend, a woman's recent cancer diagnosis forces the relationship into new terrain.
 
 ***[Meet Me in Sankt Polten](https://www.youtube.com/watch?app=desktop&v=n6OmmVVn7vg)*** \| 2022 \| Producer, Sound Recording and Design \| At the prompting of a mysterious letter, a restless Austrian student comes to see herself as a player in an elaborate spy operation, as she stalks a roommate who has recently rejected her romantic advances.
 

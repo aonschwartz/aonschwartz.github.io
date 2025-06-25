@@ -1,5 +1,5 @@
 ---
-title: "Writing"
+title: "Selected Articles"
 permalink: /writing/
 layout: default
 ---

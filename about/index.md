@@ -54,15 +54,13 @@ layout: default
 
 **[Near Chattanooga, a tiny (and monumental) glimpse into the origins of the written alphabet](https://www.timesfreepress.com/news/2025/jan/25/near-chattanooga-a-tiny-and-monumental-glimpse/)** \| 2025 \|  *Chattanooga Times Free Press* \| "The development of writing is probably the most important invention of human kind," said an archaeologist who helped unearth the the ivory comb of Tel Lachish.
 
-**[How a soldier saved by Signal Mountain’s Larry Taylor fought to see him receive the military’s highest honor](https://www.timesfreepress.com/news/2023/sep/02/how-a-soldier-saved-by-signal-mountains-larry/)** \| 2023 \|  *Chattanooga Times Free Press* \| A Vietnam War battle, a daring helicopter recuse—and a man's yearslong push to get his old combat buddy the Medal of Honor.
+**[How a soldier saved by Signal Mountain’s Larry Taylor fought to see him receive the military’s highest honor](https://www.timesfreepress.com/news/2023/sep/02/how-a-soldier-saved-by-signal-mountains-larry/)** \| 2023 \|  *Chattanooga Times Free Press* \| A Vietnam War battle, a daring helicopter recuse — and a man's yearslong push to get his old combat buddy the Medal of Honor.
 
 **[Queens of Walla Walla](http://www.union-bulletin.com/featured_story/the-queens-of-walla-walla/article_c4c8ec0c-ab9e-11e7-8784-b761518dfb93.html)** \| 2017 \|  *Walla Walla Union-Bulletin* \| In a conservative agricultural region undergoing a cultural and economic transformation, a local drag queen commands a passionate following.
 
 ### <a name="Law"><a/>Law
 
 **[Animal Rights Activists Rescued Two Piglets From Slaughter. They Wanted to Get Caught.](https://newrepublic.com/article/165468/animal-rights-dxe-smithfield)** \| 2022 \| *The New Republic* \| Liberating the pigs from a Smithfield facility was just the first step in Wayne Hsiung and Paul Darwin Picklesimer’s grand plan. Now they want their legal case to start a sea change in animal rights.
-
-**[Major Supreme Court decisions weaken federal ‘administrative state’ — but what about regulators here in Tennessee?](https://www.timesfreepress.com/news/2024/jul/02/major-supreme-court-decisions-weaken-federal/)** \| 2024 \|  *Chattanooga Times Free Press* \| The Trump admistration wants to gut the power of federal agencies. State governments are changing too. 
 
 **[How a pledge involving the Middle East came to be mandated in government contracts across Tennessee](https://www.timesfreepress.com/news/2023/jul/29/how-a-pledge-involving-the-middle-east-came-to-be/#/questions)** \| 2023 \|  *Chattanooga Times Free Press* \| In recent years, Christians United for Israel helped bring an anti-boycott law to 35 states, including Alabama, Georgia and Tennessee. How did it do it?
 

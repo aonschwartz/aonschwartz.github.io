@@ -1,9 +1,9 @@
 ---
-title: "Selected Articles"
+title: "Writing"
 permalink: /writing/
 layout: default
 ---
-## **Writing**
+## **Selected Articles**
 *[Money and Power](#BusinessReporting)* \| *[Immigration](#ImmigrationReporting)* \| *[Religion](#ReligionReporting)* \| *[Infrastructure](#Infrastructure)* \| *[Culture](#Culture)*  \| *[Law](#Law)* \| *[Essays](#Essays)*
 
 

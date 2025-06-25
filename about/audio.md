@@ -30,4 +30,4 @@ layout: default
 
 ***[Meet Me in Sankt Polten](https://www.youtube.com/watch?app=desktop&v=n6OmmVVn7vg)*** \| 2022 \| producer, sound designer \| At the prompting of a mysterious letter, a restless Austrian student comes to see herself as a player in an elaborate spy operation, as she stalks a roommate who has recently rejected her romantic advances.
 
-***[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)*** \| 2021 \| producer, sound recordist \| Short Film about a woman drawing in a park. She has forgotten her blue pencil.
+***[Interloper](https://www.youtube.com/watch?v=5JsN9_D1pP8)*** \| 2021 \| producer, sound recorder \| Short film about a woman drawing in a park. She has forgotten her blue pencil.
